@@ -1,0 +1,271 @@
+       Class 17: Outline
+Hour 1:
+ Dipoles & Magnetic Fields
+
+Hour 2:
+ Expt. 7: Dipoles in B Fields
+
+
+                                P17- 1
+Last Time:
+Biot-Savart
+
+
+
+
+              P17- 2
+             The Biot-Savart Law
+Current element of length ds carrying current I
+produces a magnetic field:
+
+                                                   G
+                                         G µ 0 I d s × rˆ
+                                        dB =
+                                             4π r   2
+
+
+                                                   G
+                                        Moving charges are currents too…
+                                            G µo q v x rˆ
+                                            B=
+                                               4π r
+(http://ocw.mit.edu/ans7870/8/8.02T/f
+04/visualizations/magnetostatics/03-                 2
+CurrentElement3d/03-
+cElement320.html)
+                                                                    P17- 3
+   PRS Question:
+Force between wires
+
+
+
+
+                      P17- 4
+Magnetic Dipoles:
+ Torque & Force
+
+
+
+
+                    P17- 5
+First: Review From Friday
+
+
+
+
+                            P17- 6
+               Rectangular Current Loop
+Place rectangular current loop in uniform B field
+                             G G          G G
+                             F1 = F3 = 0 IL B   (        )
+                              G
+                              F2 = I (− aˆj) × ( B ˆi ) = IaB kˆ
+                              G
+                              F = I (aˆj) × ( B ˆi ) = − IaB kˆ
+                                4
+
+
+                            G      G G G G
+     ĵ                     Fnet = F1 + F2 + F3 + F4 = 0
+k̂        î                 No net force on the loop!!
+                                                             P17- 7
+   Torque on Rectangular Loop
+          G G G                                          k̂
+  Recall: τ = r × F                                   ĵ x
+                                                              î
+
+G ⎛ b ˆ⎞ G ⎛ b ˆ⎞ G
+τ = ⎜ − i ⎟ × F2 + ⎜ i ⎟ × F4
+    ⎝ 2 ⎠          ⎝2 ⎠
+
+    ⎛ b ˆ⎞
+             (      ) ⎛ b ˆ⎞
+                                (
+  = ⎜ − i ⎟ × IaBk + ⎜ i ⎟ × − IaBkˆ
+    ⎝ 2 ⎠
+                 ˆ
+                      ⎝2 ⎠
+                                       )
+    IabB ˆ IabB ˆ            Torque Direction:
+  =       j+      j = IabBˆj Thumb in torque direction,
+       2       2
+                                fingers rotate with object
+                                                         P17- 8
+        Torque on Rectangular Loop
+                                     G
+                                     τ = IABj
+                                            ˆ
+                              G
+                              A = A nˆ = ab nˆ : area vector
+                                             G
+   k̂                             nˆ = +kˆ , B =B ˆi
+ĵ x
+        î
+
+                   G    G   G
+                   τ = IA × B
+        Familiar? No net force but there is a torque     P17- 9
+Magnetic Dipole Moment
+    Define Magnetic Dipole Moment:
+         G           G
+         µ ≡ IAnˆ ≡ IA
+    Then:
+            G G   G
+            τ = µ×B
+                   G G G
+      Analogous to τ = p × E
+
+     τ tends to align µ with B
+                                     P17- 10
+         Animation:
+Another Way To Look At Torque
+
+
+
+
+External field connects to field of compass needle and “pulls” the dipole into
+alignment
+(http://ocw.mit.edu/ans7870/8/8.02T/f04/visualizations/magnetostatics/18-
+dipNeedle/18-Dip_320.html)
+                                                                         P17- 11
+   Interactive Java Applet:
+Another Way To Look At Torque
+
+
+
+
+                    http://ocw.mit.edu/ans7870/8/8.02T/f04/visualizatio
+                    ns/magnetostatics/35-wireandmagnetapp/35-
+                    wirecompass320.html
+
+  Field of wire connects to field of compass
+ needle and “pulls” the dipole into alignment
+                                                                    P17- 12
+Demonstration:
+Galvanometer
+
+
+
+
+                 P17- 13
+    G           G
+Magnetic Dipole Moment
+
+    µ ≡ IAnˆ ≡ IA
+
+
+
+                         P17- 14
+        PRS Question:
+Torque on Dipole in Uniform Field
+
+
+
+
+                                P17- 15
+Dipoles don’t move???
+         This dipole rotates but
+         doesn’t feel a net force
+
+
+
+
+                   But dipoles
+                   CAN feel force
+                   due to B.
+                   What’s up?
+                                    P17- 16
+     PRS Question:
+Force on Magnetic Dipole
+
+
+
+
+                           P17- 17
+     Something New
+Dipoles in Non-Uniform Fields:
+            Force
+
+
+
+
+                                 P17- 18
+     Force on Magnetic Dipole
+To determine force, we need to know energy:
+                          G G
+              U Dipole = -µ ⋅ B
+Force tells how the energy changes with position:
+       G          G           G G G
+                                  (
+       FDipole = -∇U Dipole = ∇ µ ⋅ B   )
+                            G G G
+                           (
+         (after math) = µ ⋅∇ B    )
+Dipoles only feel force in non-uniform field
+                                              P17- 19
+Force on Magnetic Dipole
+                    G
+                  ∂B
+                       negative
+                   ∂z
+                  Force down!
+                       G
+G         G G G       ∂B
+        (    )
+FDipole = µ ⋅∇ B = µ
+                      ∂z
+                             P17- 20
+Force on Magnetic Dipole
+
+
+
+
+     Alternate Thought
+What makes the field pictured?   P17- 21
+      Force on Magnetic Dipole
+                                                 µ
+                                             N
+
+                                             S
+
+
+                                             N
+
+                                             S
+
+
+Bar magnet below dipole, with N pole on top
+It is aligned with the dipole pictured, they attract!
+                                                        P17- 22
+      Experiment 7:
+Magnetic Forces on Dipoles
+
+
+
+
+                             P17- 23
+    Force on Dipole from Dipole:
+      Anti-Parallel Alignment
+
+
+
+
+http://ocw.mit.edu/ans7870/8/8.02T/f04/visualizations/magnetostatics/16-
+MagneticForceRepel/16-MagForceRepel_f65_320.html
+                                                                           P17- 24
+   Force on Dipole from Dipole:
+        Parallel Alignment
+
+
+
+
+http://ocw.mit.edu/ans7870/8/8.02T/f04/visualizations/magnetostatics/15-
+MagneticForceAttract/15-MagForceAtt_f65_320.html                           P17- 25
+    PRS Questions:
+Force on Magnetic Dipole
+
+
+
+
+                           P17- 26
+

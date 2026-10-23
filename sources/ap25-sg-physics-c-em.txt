@@ -1,0 +1,405 @@
+ 2025
+
+
+
+
+AP Physics C:
+             ®
+
+
+
+
+Electricity and
+Magnetism
+Scoring Guidelines
+
+
+
+
+© 2025 College Board. College Board, Advanced Placement, AP, AP Central, and the acorn logo are registered
+trademarks of College Board. Visit College Board on the web: collegeboard.org.
+AP Central is the official online home for the AP Program: apcentral.collegeboard.org.
+AP® Physics C: Electricity and Magnetism 2025 Scoring Guidelines
+
+ Question 1: Mathematical Routines (MR)                                                                   10 points
+
+ A     (i)                                                                    → → qenc                       Point A1
+             For a multistep derivation that includes the equation          ○∫ ⋅ dA =
+                                                                              E
+                                                                                    ε0
+             Scoring Note: Vector notation is not required for this point to be earned.
+             For a correct substitution of the area of an appropriate Gaussian surface with nonzero          Point A2
+             flux for the region R1 < r < R2 (e.g., 2π rl )
+
+             For a correct expression for the enclosed charge (e.g., σ 1 ( 2π R1l ) )                        Point A3
+
+             Example Response
+                →      →            qenc
+             ○∫ E ⋅ dA =ε             0
+
+                                     σ 1 ( 2π R1l )
+             E ( 2π r l ) =
+                                           ε0
+                    σ 1 R1
+             E=
+                    ε 0r
+                                                                                         b   →   →
+      (ii) For substituting the expression for E from part A (i) into ∆V =                                   Point A4
+                                                                          −          ∫ E ⋅ dr
+                                                                                         a
+             Scoring Notes:
+                • Vector notation is not required for this point to be earned.
+                • The sign of ∆V is not considered for this point to be earned.
+
+             For an attempt to solve the integral for ∆V that includes correct limits                        Point A5
+                                     σR R 1
+                                     ε 0 ∫R r
+                                                   2
+             (e.g., ∆V =1 1                   dr )
+                                               1
+
+
+             Scoring Note: This point may be earned regardless of the order of the limits of
+                                                          σ 1 R1 R 1
+                                                           ε 0 ∫R r
+                                                                  1
+             integration; for example,                               dr .
+                                                                  2
+
+
+
+             Example Response
+                    b →   →
+             ∆V =− ∫ E ⋅ dr
+                                a
+
+                           R2   σ 1 R1                 σ 1 R1 R 1
+                       ∫ =                              ε 0 ∫R r
+                                                              2
+         ∆V
+         =                  dr                                    dr
+                         rεR1
+                                          0
+                                                              1
+
+
+                                              R2
+           σ 1 R1           σ 1 R1  R2 
+       =∆V      = ln ( r)         ln  
+            ε0            R
+                             ε  0     R1     1
+
+
+     (iii) For sketching a graph that is zero for both 0 < r < R1 and r > R2                                 Point A6
+             For sketching a graph that is decreasing and concave up for R1 < r < R2                         Point A7
+             Scoring Note: The curve does not have to intersect the vertical dashed lines for this
+             point to be earned.
+
+
+                                                                                                     © 2025 College Board
+AP® Physics C: Electricity and Magnetism 2025 Scoring Guidelines
+            Example Response
+
+
+
+
+ B                                                                      Q                                     Point B1
+            For a multistep derivation that includes the equation C =
+                                                                        ∆V
+            For indicating that C with the dielectric material inserted is C without the dielectric           Point B2
+                                                              Q
+            material inserted multiplied by κ (e.g., C = κ       )
+                                                              ∆V
+            For substitutions of both the total charge Q and the potential difference ∆V that are             Point B3
+            consistent with part A
+            Example Response
+            Without the dielectric material
+                  Q
+            C=
+                  ∆V
+                    σ 1 ( 2π LR1 )
+            C=
+                σ 1 R1  R2  
+                      ln   
+                 ε  0     R1  
+                2π Lε 0
+            C=
+                  R 
+               ln  2 
+                   R1 
+            With the dielectric material
+                  Q
+            C =κ
+                 ∆V
+               2π Lκε 0
+            C=
+                  R 
+               ln  2 
+                   R1 
+
+
+
+
+                                                                                                      © 2025 College Board
+AP® Physics C: Electricity and Magnetism 2025 Scoring Guidelines
+
+ Question 2: Translation Between Representations (TBR)                                               12 points
+
+ A                                 1                                                                    Point A1
+            For drawing a bar at     T
+                                   4
+                                   1                                                                    Point A2
+            For drawing a bar at     T that has a height of 3 units
+                                   4
+                                                                   1                                    Point A3
+            For indicating that ε is zero at times t = 0 and         T
+                                                                   2
+            Example Response
+
+
+
+
+ B                                                                         d ΦB                         Point B1
+            For a multistep derivation that includes the equation ε = −
+                                                                            dt
+            Scoring Note: The negative sign does not have to be present in the expression for
+            this point to be earned.
+
+            For a correct expression for the induced emf (e.g., ε = BAω sin (ωt ) )                     Point B2
+
+                                                                         ε                              Point B3
+            For using Ohm’s law to relate current and emf (e.g., I =       )
+                                                                         R
+            For a correct expression for the absolute value of the maximum induced current              Point B4
+                       BAω
+            (e.g., I =     )
+                        R
+
+
+
+
+                                                                                                © 2025 College Board
+AP® Physics C: Electricity and Magnetism 2025 Scoring Guidelines
+            Example Response
+                  d ΦB
+            ε= −
+                   dt
+                  d
+            ε − 
+              =        BA cos (ωt )  BAω sin
+                                      =        ( ωt )
+                  dt 
+            εmax = BAω
+
+
+                  ∆V ε
+          =I      =
+                   R     R
+                     εmax BAω
+             I=
+              max     =
+                      R    R
+ C          For a curve that is approximately sinusoidal                                                   Point C1
+            For a curve that shows exactly two cycles                                                      Point C2
+            For a curve that starts at the origin and has equal maximum values and equal minimum           Point C3
+            values
+
+            Scoring Note: A curve that starts and ends at P = 0 and has a single maximum can
+            earn this point.
+            Example Response
+
+
+
+
+ D          For correctly indicating whether the representations are consistent in parts A and C           Point D1
+            For a correct justification that indicates that the maxima and/or minima of the graph in       Point D2
+            part C align with the bars drawn in part A because P is proportional to ε 2
+            Example Response
+            Yes, part C is consistent with part A. P is proportional to ε 2 . When ε is maximum, P
+            is maximum.
+
+
+
+                                                                                                   © 2025 College Board
+AP® Physics C: Electricity and Magnetism 2025 Scoring Guidelines
+
+ Question 3: Experimental Design and Analysis (LAB)                                                       10 points
+
+ A          For a procedure in which the length of and the current in the circuit element are               Point A1
+            measured, and the cross-sectional area of the circuit element is determined
+            For a procedure that indicates a reasonable method of reducing experimental                     Point A2
+            uncertainty
+            Examples of acceptable responses may include the following:
+                • Making different measurements of the current in the circuit element
+                • Varying the potential difference of the power supply
+            Example Response
+            Measure the length and diameter of the circuit element. Use the diameter to calculate
+            the area of the circuit element. Measure the current in the circuit element. Repeat the
+            procedure multiple times for different potential difference settings on the variable
+            power supply.
+ B          For indicating quantities that can be graphed appropriately to determine ρ1 , consistent        Point B1
+            with the procedure from part A, such as potential difference as a function of current
+
+            Scoring Notes:
+               • Responses that include the reciprocals of the preceding example, in addition to
+                   other equivalent graphs, also earn this point.
+               • This point may be earned independently of the response in part A.
+            For a correct analysis of the graph, consistent with the first point of part B                  Point B2
+            Example Response
+            Graph the potential difference across the circuit element as a function of the current in
+                                                                        ρ1l
+            the circuit element. Use the slope of the graph, which is        , where l is the length of
+                                                                        π r2
+            the circuit element and r is equal to the radius of the circuit element, to determine ρ1 .
+
+ C     (i) For indicating appropriate quantities that could be plotted on the graph to determine            Point C1
+           ρ 2 , for example R as a function of L
+
+            Scoring Note: This point may be earned:
+               • if the vertical and horizontal variables are reversed.
+               • for other equivalent graphs.
+
+      (ii) For labeling the axes (including units) with a linear scale                                      Point C2
+            For correctly plotting data points consistent with one of the following:                        Point C3
+                • The quantities indicated in part C (i)
+                • The quantities provided in the table
+                • The axes indicated in the first point of part C (ii)
+     (iii) For drawing a line or curve that approximates the trend of the plotted data                      Point C4
+
+
+
+
+                                                                                                   © 2025 College Board
+AP® Physics C: Electricity and Magnetism 2025 Scoring Guidelines
+            Example Response
+
+
+
+
+ D          For correctly relating the slope of the best-fit line to ρ 2                        Point D1
+                   ∆R                ρ2
+            (e.g.,= slope
+                     =                    )
+                   ∆L                A
+            For a value for ρ 2 that is between 3.5 × 10−4 Ω ⋅ m and 4.5 × 10−4 Ω ⋅ m           Point D2
+            Example Response
+                    ∆R
+            slope =
+                    ∆L
+             ∆R      4.0 Ω − 2.0 Ω
+                =
+             ∆L 0.050 m − 0.024 m
+             ∆R       Ω
+                = 77
+             ∆L       m
+
+                  ρL
+             R=
+                   A
+
+                ρ 
+             R = 2 L
+                 A
+                       ρ2
+            slope =
+                      A
+             ρ 2 = A(slope)
+
+            ρ
+            = 2   ( 5.0 ×10 m )  77 Ωm 
+                            −6   2
+
+
+
+             ρ 2 ≈ 3.9 ×10−4 Ω ⋅ m
+
+
+
+                                                                                        © 2025 College Board
+AP® Physics C: Electricity and Magnetism 2025 Scoring Guidelines
+
+ Question 4: Qualitative Quantitative Translation (QQT)                                                 8 points
+
+ A          For indicating that F2 > F1                                                                  Point A1
+
+            For correctly relating the magnitude of the magnetic force to the magnitude of the           Point A2
+            magnetic field
+            For indicating that the magnitude of the magnetic field at the location of Sphere 2 is       Point A3
+            greater than the magnitude of the magnetic field at the location of Sphere 1 by referring
+            to either:
+                 • The relative distance from the spheres to Wires S and T
+                 • The direction of the magnetic fields from Wires S and T at the locations of the
+                     spheres
+            Example Response
+            The magnitude of the magnetic force exerted on a sphere is directly proportional to Q,
+            v, and B. Because Q and v are the same for both spheres, the difference in the
+            magnitudes of the magnetic forces is due to the difference in the magnitudes of the
+            magnetic fields at the locations of the spheres. The magnitude of the magnetic field is
+            greater at the location of Sphere 2 than at the location of Sphere 1 because the fields
+            from the wires are in the same direction. Therefore, F2 > F1 .
+                                                                      → →
+ B          For a multistep derivation that includes the equation
+                       →
+                                                                    ○∫ ⋅ d l =
+                                                                      B      µ0 I enc or                 Point B1
+
+
+             dB =
+                          (
+              → µ0 I d l × rˆ    )
+                  4π  r2
+
+            Scoring Note: Vector notation is not required for this point to be earned. A multistep
+                                           µ0 I
+            derivation that includes B =        can earn this point.
+                                           2π d
+            For a correct expression for the magnitude of the magnetic field due to the current in       Point B2
+            one wire at the location of Sphere 2
+            For indicating that the magnitude of the total field is twice that due to one wire           Point B3
+            Example Response
+            Determine the magnitude B of the magnetic field due to one wire.
+               → →
+             ○∫ ⋅ d l =
+               B      µ0 I enc
+
+
+             B ( 2π d ) = µ0 I
+                   µ0 I
+             B=
+                   2π d
+            Determine Btot .
+                    µ0 I µ0 I
+            B
+            =tot        +
+                   2π d 2π d
+                   µI
+             Btot = 0
+                   πd
+
+
+                                                                                                 © 2025 College Board
+AP® Physics C: Electricity and Magnetism 2025 Scoring Guidelines
+
+ C          For indicating Fnew = F2                                                                        Point C1
+
+                                   3µ 0 I µ 0 I                                                             Point C2
+            For indicating B
+                          = tot          −
+                                   2π d 2π d
+            OR
+
+            For indicating that the net magnitude of the magnetic field at the location of Sphere 2
+            will remain the same even though the field from Wire T will change
+            Example Response
+            The magnetic field at the location of Sphere 2 due to the current in Wire T is in the
+            opposite direction to the magnetic field due to the current in Wire S. The current in
+                                                                      3µ0 I µ0 I µ0 I
+            Wire T is increased by a factor of 3. Therefore, Btot =        −    =     in this
+                                                                      2π d 2π d π d
+            scenario. Thus, Fnew = F2 .
+
+
+
+
+                                                                                                    © 2025 College Board
+

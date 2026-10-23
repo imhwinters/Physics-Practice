@@ -1,0 +1,458 @@
+       Class 26: Outline
+Hour 1:
+ Driven Harmonic Motion (RLC)
+
+Hour 2:
+ Experiment 11: Driven RLC Circuit
+
+
+                                 P26- 1
+     Last Time:
+Undriven RLC Circuits
+
+
+
+
+                        P26- 2
+                 LC Circuit
+It undergoes simple harmonic motion, just like a
+mass on a spring, with trade-off between charge on
+capacitor (Spring) and current in inductor (Mass)
+
+
+
+
+                                                 P26- 3
+      Damped LC Oscillations
+
+
+
+
+Resistor dissipates
+energy and system
+rings down over time
+
+
+                               P26- 4
+   Mass on a Spring:
+Simple Harmonic Motion`
+    A Second Look
+
+
+
+                          P26- 5
+           Mass on a Spring
+(1)          (2)           We solved this:
+                                          d 2x
+                          F = −kx = ma = m 2
+                                          dt
+                             2
+                            d x
+(3)          (4)          m 2 + kx = 0
+                            dt
+                        Simple Harmonic Motion
+                          x(t ) = x0 cos(ω 0t + φ )
+                      Moves at natural frequency
+
+      What if we now move the wall?
+           Push on the mass?                   P26- 6
+    Demonstration:
+Driven Mass on a Spring
+    Off Resonance
+
+
+
+
+                          P26- 7
+      Driven Mass on a Spring
+                                    Now we get:
+                                                      d 2x
+                             F = F ( t ) − kx = ma = m 2
+                                                      dt
+                                        2
+                        F(t)        d x
+                                 m 2 + kx = F ( t )
+                                     dt
+                             Assume harmonic force:
+                                F (t ) = F0 cos(ω t )
+Simple Harmonic Motion
+x(t ) = xmax cos(ω t + φ )
+                        Moves at driven frequency P26- 8
+             Resonance
+        x(t ) = xmax cos(ω t + φ )
+Now the amplitude, xmax, depends on how
+ close the drive frequency is to the natural
+ frequency     xmax
+
+                                     Let’s
+                                     See…
+
+
+                       ω0
+                              ω
+                                               P26- 9
+    Demonstration:
+Driven Mass on a Spring
+
+
+
+
+                          P26- 10
+                Resonance
+          x(t ) = xmax cos(ω t + φ )
+       xmax depends on drive frequency
+xmax                   Many systems behave like this:
+                           Swings
+                           Some cars
+                           Musical Instruments
+                           …
+
+           ω0
+                   ω                             P26- 11
+Electronic Analog:
+   RLC Circuits
+
+
+
+
+                     P26- 12
+        Analog: RLC Circuit
+Recall:
+ Inductors are like masses (have inertia)
+ Capacitors are like springs (store/release energy)
+ Batteries supply external force (EMF)
+
+  Charge on capacitor is like position,
+  Current is like velocity – watch them resonate
+
+Now we move to “frequency dependent batteries:”
+ AC Power Supplies/AC Function Generators
+                                                   P26- 13
+ Demonstration:
+RLC with Light Bulb
+
+
+
+
+                      P26- 14
+Start at Beginning:
+   AC Circuits
+
+
+
+
+                      P26- 15
+     Alternating-Current Circuit
+• direct current (dc) – current flows one way (battery)
+• alternating current (ac) – current oscillates
+
+
+• sinusoidal voltage source
+
+ V (t ) = V0 sin ω t
+      ω = 2π f : angular frequency
+              V0 : voltage amplitude
+
+                                                      P26- 16
+AC Circuit: Single Element
+             V =V
+                = V0 sin ω t
+
+            I (t ) = I 0 sin(ωt − φ )
+           Questions:
+           1. What is I0?
+           2. What is φ ?
+                                   P26- 17
+     AC Circuit: Resistors
+                  VR V0                      V0
+             IR =      =    sin ω t     I0 =
+                   R R                       R
+                = I 0 sin ( ω t − 0 )   ϕ =0
+VR = I R R
+                IR and VR are in phase
+
+
+
+
+                                              P26- 18
+         AC Circuit: Capacitors
+                                 dQ            I 0 = ω CV0
+                      I C (t ) =
+                                  dt
+                                               ϕ  = − π
+           Q                   = ω CV0 cos ω t          2
+      VC =                  = I 0 sin(ω t − −π 2 )
+           C
+                               IC leads VC by π/2
+
+
+
+Q(t ) = CVC = CV0 sin ω t
+
+
+                                                       P26- 19
+        AC Circuit: Inductors
+                       V
+              I (t ) =L  L ∫ sin ω t dt
+                             0              V
+                                        I0 = 0
+                               V0                    ωL
+                          =−         cos ω t
+          dI L                    ωL                 π
+   VL = L                 = I 0 sin ( ω t − π 2 ) ϕ = 2
+          dt
+                           IL lags VL by π/2
+
+
+dI L VL V0
+    =   =   sin ω t
+dt    L   L
+
+                                                      P26- 20
+     AC Circuits: Summary
+                       Current      Resistance
+Element         I0       vs.        Reactance
+                       Voltage      Impedance
+
+Resistor      V0R     In Phase         R=R
+               R
+                                            1
+Capacitor              Leads          XC =
+             ω CV0C                        ωC
+
+Inductor       V0L       Lags
+               ωL
+                                     X L =  ω  L
+Although derived from single element circuits,
+these relationships hold generally!                P26- 21
+  PRS Question:
+Leading or Lagging?
+
+
+
+
+                      P26- 22
+               Phasor Diagram
+Nice way of tracking magnitude & phase:
+
+V (t ) = V0 sin ( ω t )              ω
+                                         V0
+                                     ωt
+
+
+ Notes: (1) As the phasor (red vector) rotates, the
+             projection (pink vector) oscillates
+        (2) Do both for the current and the voltage P26- 23
+Demonstration:
+   Phasors
+
+
+
+
+                 P26- 24
+Phasor Diagram: Resistor
+
+                         V0 = I 0 R
+                         ϕ =0
+
+
+
+
+IR and VR are in phase
+                                      P26- 25
+Phasor Diagram: Capacitor
+
+                        V0 = I 0 X C
+                                 1
+                           = I0
+                                ωC
+                        ϕ =−π 2
+
+
+
+
+   IC leads VC by π/2
+                                       P26- 26
+Phasor Diagram: Inductor
+
+                      V0 = I 0 X L
+                         = I 0ω L
+                            π
+                      ϕ=
+                            2
+
+
+
+
+  IL lags VL by π/2
+                                     P26- 27
+PRS Questions:
+    Phase
+
+
+
+
+                 P26- 28
+ Put it all together:
+Driven RLC Circuits
+
+
+
+
+                        P26- 29
+       Question of Phase
+We had fixed phase of voltage:
+
+V = V0 sin ω t      I (t ) = I 0 sin(ω t − φ )
+
+It’s the same to write:
+
+V = V0 sin(ω t + φ ) I (t ) = I 0 sin ω t
+              (Just shifting zero of time)   P26- 30
+       Driven RLC Series Circuit
+                                    I (t ) = I 0 sin(ω t )
+                                     VR = VR 0 sin ( ω t )
+                                      VL = VL 0 sin ( ω t + π2 )
+                                     VC = VC 0 sin ( ω t + −2π )
+    VS = V0 S sin ( ω t + ϕ )
+
+
+What is I 0 (and VR 0 = I 0 R, VL 0 = I 0 X L , VC 0 = I 0 X C ) ?
+What is ϕ ? Does the current lead or lag Vs ?
+         Must Solve: VS = VR + VL + VC
+                                                               P26- 31
+       Driven RLC Series Circuit
+                             V0L
+                                    V0S
+I(t)
+                                    I0    V0R
+                              V0C
+          VS
+
+
+  Now Solve: VS = VR + VL + VC
+
+  Now we just need to read the phasor diagram!
+                                                 P26- 32
+        Driven RLC Series Circuit
+                                            V0L
+                                                       V0S
+     I (t ) = I 0 sin(ω t − ϕ )                         ϕ
+                                                   I0        V0R
+                                            V0C
+       VS = V0 S sin ( ω t )
+             2                 2        2                    2
+V0 S = VR 0 + (VL 0 − VC 0 ) = I 0 R + ( X L − X C ) ≡ I 0 Z
+
+     V0 S                                              ⎛ X L − XC ⎞
+I0 =                2
+            Z = R + (X L − XC )    2
+                                       φ = tan    −1
+                                                       ⎜          ⎟
+      Z                                                ⎝     R    ⎠
+                 Impedance                                         P26- 33
+              Plot I, V’s vs. Time
+I    0
+                                            I (t ) = I 0 sin ( ω t )
+
+VR   0
+                                            VR (t ) = I 0 R sin ( ω t )
+
+
+VL
+                                            VL (t ) = I 0 X L sin ( ω t + π2 )
+     0
+
+             +π/2
+
+VC
+                    -π/2                    VL (t ) = I 0 X C sin ( ω t − π2 )
+     0
+
+
+
+VS                                          VS (t ) = VS 0 sin ( ω t + ϕ )
+     0
+         0         1                    2         3
+              +φ
+                       Time (Periods)
+
+                                                                             P26- 34
+ PRS Question:
+Who Dominates?
+
+
+
+
+                 P26- 35
+RLC Circuits:
+Resonances
+
+
+
+
+                P26- 36
+                 Resonance
+     V0             V0                                     1
+ I0 = =                             ;    X L = ω L, X C =
+     Z       R 2 + ( X L − X C )2                         ωC
+At very low frequencies, C dominates (XC>>XL):
+       it fills up and keeps the current low
+At very high frequencies, L dominates (XL>>XC):
+       the current tries to change but it won’t let it
+At intermediate frequencies we have resonance
+
+   I0 reaches maximum when               X L = XC
+                                    1
+                      ω0 =
+                                    LC                     P26- 37
+                   Resonance
+    V0             V0                                    1
+I0 = =                             ;   X L = ω L, X C =
+    Z       R 2 + ( X L − X C )2                        ωC
+
+                                                      ⎛ X L − XC ⎞
+                                       φ = tan   −1
+                                                      ⎜          ⎟
+  C-like:                                             ⎝     R    ⎠
+  φ<0                    L-like:
+  I leads                φ>0
+                         I lags
+
+
+
+
+               ω0 = 1     LC                                     P26- 38
+ Demonstration:
+RLC with Light Bulb
+
+
+
+
+                      P26- 39
+PRS Questions:
+  Resonance
+
+
+
+
+                 P26- 40
+ Experiment 11:
+Driven RLC Circuit
+
+
+
+
+                     P26- 41
+   Experiment 11: How To
+Part I
+• Use exp11a.ds
+• Change frequency, look at I & V. Try
+  to find resonance – place where I is
+  maximum
+Part II
+• Use exp11b.ds
+• Run the program at each of the listed
+  frequencies to make a plot of I0 vs. ω
+                                       P26- 42
+

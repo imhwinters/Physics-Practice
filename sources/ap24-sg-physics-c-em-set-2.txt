@@ -1,0 +1,518 @@
+ 2024
+
+
+
+
+AP Physics C:
+             ®
+
+
+
+
+Electricity and
+Magnetism
+Scoring Guidelines
+Set 2
+
+
+
+
+© 2024 College Board. College Board, Advanced Placement, AP, AP Central, and the acorn logo are registered
+trademarks of College Board. Visit College Board on the web: collegeboard.org.
+AP Central is the official online home for the AP Program: apcentral.collegeboard.org.
+AP® Physics C: Electricity and Magnetism 2024 Scoring Guidelines
+
+Question 1: Free-Response Question                                                                    15 points
+
+(a)      For using a correct equation for electric flux                                                  1 point
+         Example Response
+
+             Q
+         ΦE =
+                ε0
+         For the correct numerical answer                                                                1 point
+
+         Scoring Note: Correct units are not required to earn this point.
+         Example Response
+
+                  N ⋅ m2
+         ΦE =113
+                    C
+         Example Solution
+
+             Q
+         ∫ ⋅ dA =
+           E
+                     ε0
+             Q
+         ΦE =
+                ε0
+                 1.0 × 10−9 C
+         ΦE =
+                            C2
+             8.85 × 10−12
+                          N ⋅ m2
+                 N ⋅ m2
+         ΦE =113
+                    C
+                                                                                   Total for part (a)   2 points
+(b)(i)   For indicating that WED = 0                                                                     1 point
+         For drawing a bar representing WDA that has a height of approximately one and a half units      1 point
+         Example Response
+
+
+
+
+                                                                                           © 2024 College Board
+AP® Physics C: Electricity and Magnetism 2024 Scoring Guidelines
+(b)(ii) For using an equation that relates the electric field to potential difference                           1 point
+        Scoring Note: This point can be earned if the response begins with a correct relationship
+        between electric field and potential difference in which numerical values are already
+        substituted.
+        Example Responses
+
+                  dV                        dV                         ∆V                   
+         Ey = −          OR     Ey =    −         OR      Ey =     −        OR     ∆V =− ∫ E ⋅ dr
+                  dy                        dy                         ∆y
+
+        For correct substitutions of values of electric potential and the distance between equipotential        1 point
+        lines that can be used to calculate the approximate magnitude of the electric field at
+        Position B
+        Example Response
+                    −20.0 V − (−10.0 V)
+         Ey =   −
+                           1.4 m
+
+        Example Solution
+                dV
+         Ey = −
+                dy
+                 dV
+         Ey = −
+                  dy
+                 ∆V
+         Ey = −
+                  ∆y
+                 −20.0 V − (−10.0 V)
+         Ey = −
+                        1.4 m
+                   V
+         E y = 7.1
+                   m
+                                                                                         Total for part (b)    4 points
+(c)     For selecting only − y with an attempt at a relevant justification                                      1 point
+
+        For indicating that the direction of the electric field vector is perpendicular to a line that is       1 point
+        tangent to the equipotential line at Position C
+        For indicating one of the following:                                                                    1 point
+        •    The test charge moves from a higher electric potential to a lower electric potential.
+        •    The test charge and the rod have charges of the opposite sign.
+        •    The test charge and the sphere have charges of the same sign.
+        Example Response
+         − y . The direction of an electric field vector is perpendicular to an equipotential line. Because
+        the test charge has a positive charge, the test charge would move from a position of higher
+        electric potential to a position of lower electric potential when an electric force is exerted on
+        the test charge. Therefore, at Position C , the electric force is downward because that is the
+        direction that is perpendicular to the equipotential line and in the direction of decreasing
+        electric potential.
+                                                                                         Total for part (c)    3 points
+
+                                                                                                  © 2024 College Board
+AP® Physics C: Electricity and Magnetism 2024 Scoring Guidelines
+(d)(i)   For using an appropriate equation for determining the electric potential from a line of uniform   1 point
+         charge
+         Example Responses
+
+                1        q                     1     dq                     
+               4πε 0 ∑ ri                     4πε 0 ∫ r
+         V =             i
+                              OR        V =               OR       ∆V =− ∫ E ⋅ dr
+
+         For a correct determination of r , the distance between Point P and a point on the line of        1 point
+         uniform charge
+         Example Responses
+
+                       Q                              1 
+         VP = k ∑               OR      VP = k ∫        dq
+                     yP − y                        P − y
+                                                    y
+
+         For a correct integral with λ dy substituted for dq                                               1 point
+         Example Response
+
+                           1 
+         VP = − k λ ∫          dy
+                        yP − y 
+         For the correct limits of integration                                                             1 point
+         Example Response
+
+                    2L
+                           1 
+         VP = − k λ ∫            dy
+                        yP − y 
+                    0
+
+
+
+
+                                                                                             © 2024 College Board
+AP® Physics C: Electricity and Magnetism 2024 Scoring Guidelines
+        Example Solutions
+
+                1        q
+              4πε 0 ∑ ri
+                        i
+        V =
+
+                      1 
+        VP = k ∫        dq
+                   P − y
+                    y
+
+         dq = −λ dy
+
+                           1 
+        VP = − k λ ∫           dy
+                       P − y
+                         y
+                      2L      1 
+        VP = − k λ ∫              dy
+                    0  yP − y 
+
+        VP k
+           =  λ ln( yP − y ) |02 L −
+                                   =    k λ ln( yP − y ) |02 L
+                             yP 
+        VP = − k λ ln            
+                         yP − 2 L 
+        OR
+                   
+         ΔV = − ∫ E ⋅ dr
+             k
+         E ( y) = ∫
+               dq
+            r2
+            2L   kλ                      1   1
+  =E ( y) ∫     =         dy ′ k λ        − 
+           0 ( y − y ′ )2            y − 2L y 
+                 yP                     yP     1     1
+        VP −
+           =   ∫∞    E ( y ) dy =− k λ ∫∞  y − 2L − y  dy
+                            yP 
+        VP = k λ ln           
+                      yP − 2 L 
+
+
+
+
+                                                                   © 2024 College Board
+AP® Physics C: Electricity and Magnetism 2024 Scoring Guidelines
+(d)(ii) For sketching a curve or line that continually approaches the horizontal axis as position          1 point
+        increases
+        For sketching a concave down curve that is always negative                                         1 point
+        Example Response
+
+
+
+
+                                                                                     Total for part (d)   6 points
+
+                                                                                  Total for question 1 15 points
+
+
+
+
+                                                                                             © 2024 College Board
+AP© Physics C: Electricity and Magnetism 2024 Scoring Guidelines
+
+ Question 2: Free-Response Question                                                                     15 points
+(a)(i)   For correctly placing the voltmeter in parallel with Resistor A , Resistor B , or the                1 point
+         combination of resistors A and B
+         Example Response
+
+
+
+
+(a)(ii) For a procedure that indicates that the voltmeter should be used to measure the potential             1 point
+        difference for at least one time
+        For measuring the potential difference from immediately after the switch is closed to when            1 point
+        steady-state conditions have been established or until a time at which the time constant can be
+        determined
+
+         Example Response
+
+         Close the switch. Using the voltmeter, record the potential difference as a function of time
+         until steady-state conditions are established.
+                                                                                        Total for part (a)   3 points
+(b)(i)   For correctly labeling potential difference on the vertical axis and time on the horizontal axis     1 point
+         For a concave-down and increasing curve                                                              1 point
+         For a curve that starts at the origin and asymptotically approaches a nonzero potential              1 point
+         difference value
+         For correctly labeling the horizontal asymptote that is consistent with the indication of the        1 point
+         connection of the voltmeter in the response in part (a)(i)
+
+
+
+
+                                                                                                 © 2024 College Board
+AP© Physics C: Electricity and Magnetism 2024 Scoring Guidelines
+        Example Responses
+
+
+
+
+                                                       OR
+(b)(ii) For indicating that a curve fit to the graph is that of an exponential function                        1 point
+
+        Alternate Solution
+
+        For indicating the time on the graph where the potential difference across Resistor A or
+                                      0.63
+        Resistor B is approximately          or that the potential difference across the combination of
+                                        2
+        resistors A and B is approximately 0.63
+                                                                                                      2R       1 point
+        For indicating that the coefficient in front of the t of the curve-fit equation is equal to
+                                                                                                       L
+
+        Alternate Solution
+
+                                                             L
+        For indicating that the time constant is equal to
+                                                            2R
+        Example Response
+
+        The data in the graph should be fit with an exponential function for the equation
+                       2R
+                   −t    
+        V
+        =R  1 − e L  . Because  and L are known, R can be calculated.
+                         
+
+        Alternate Example Response
+
+        The potential difference at 0.63 along the vertical axis corresponds to the time constant
+                                                                          L
+        along the horizontal axis. Because the time constant is equal to    , and L is known, R can
+                                                                         2R
+        be calculated.
+                                                                                     Total for part (b)       6 points
+
+
+
+
+                                                                                                  © 2024 College Board
+AP© Physics C: Electricity and Magnetism 2024 Scoring Guidelines
+(c)     For a multi-step derivation that begins with an attempt at using Kirchhoff’s loop rule                  1 point
+        Example Response
+
+          − ΔVR − ΔVL 0
+                      =
+        For indicating that the potential difference across the series combination of resistors is I ( 2 R )    1 point
+                                                                                                      dI        1 point
+        For indicating that the absolute value of the potential difference across the inductor is L
+                                                                                                      dt
+        Example Solution
+
+          − ΔVR − ΔVL 0   =
+                          dI
+          − I ( 2R ) − L     0
+                              =
+                          dt
+          2 IR dI
+           −        =
+         L      L      dt
+           R
+             (
+         − 2I −
+           L
+                     
+                     R)  =
+                           dI
+                           dt
+                                                                                          Total for part (c)   3 points
+(d)     For selecting ΔV2 < ΔV1 with an attempt at a relevant justification                                     1 point
+        For indicating that the total resistance has increased                                                  1 point
+        For indicating that the current decreases due to the increased resistance                               1 point
+
+        OR
+
+        For indicating that the potential difference across the inductor will increase, and, therefore, the
+        potential difference across R A must decrease
+        Example Response
+
+         ΔV2 < ΔV1 , because the inductor has nonnegligible resistance, and the total resistance of
+        the new circuit increases as compared to the original circuit. Therefore, the current in the new
+        circuit is reduced compared to that of the original circuit when steady-state conditions are
+        established.
+
+        OR
+
+         ΔV2 < ΔV1 , because the inductor has nonnegligible resistance, and the total resistance of
+        the new circuit increases as compared to the original circuit. Therefore, the potential
+        difference across the inductor increases, which decreases the potential difference across R A
+        compared to that of the original circuit when steady-state conditions are established.
+                                                                                     Total for part (d) 3 points
+                                                                                   Total for question 2 15 points
+
+
+
+
+                                                                                                   © 2024 College Board
+AP© Physics C: Electricity and Magnetism 2024 Scoring Guidelines
+
+ Question 3: Free-Response Question                                                                        15 points
+(a)      For a sketch that indicates that the absolute value of the magnetic flux increases from zero at       1 point
+          x = D with a constant slope until x = 2 D
+         For a sketch that is continuous at x = 2 D and the absolute value of the magnetic flux                1 point
+         increases until x = 3D with the same slope as the slope in the region D < x < 2 D
+         For a sketch that indicates that the magnetic flux is constant and nonzero in the region              1 point
+          3D < x < 3.5 D
+         For a sketch that indicates that the absolute value of the magnetic flux decreases from a             1 point
+         nonzero value at x = 3.5 D to zero at x = 4.5 D
+         Example Response
+
+
+
+
+         Scoring Note: A response that is reflected across the horizontal axis can earn the four points.
+         Scoring Note: The absolute values of the slopes in the entire regions D < x < 3D and
+         3.5 D < x < 4.5 D are not considered for earning these points.
+                                                                                        Total for part (a)    4 points
+(b)(i)   For selecting Clockwise with an attempt at a relevant justification                                   1 point
+         For indicating the magnetic flux through the loop is increasing in the + z -direction                 1 point
+
+         OR
+
+         For indicating the magnetic field due to the induced current will be directed in the
+         − z -direction
+         Example Response
+
+         Clockwise. The magnetic flux through the loop is increasing in the + z -direction. Therefore, a
+         magnetic field is induced by the current in the loop to oppose the increasing magnetic flux. To
+         establish this field, the current must be clockwise.
+
+
+
+
+                                                                                                © 2024 College Board
+AP© Physics C: Electricity and Magnetism 2024 Scoring Guidelines
+
+(b)(ii) For a multistep derivation that includes Faraday’s law                                            1 point
+
+        Scoring Note: The point can be earned if a negative sign is not included.
+         Example Response
+
+                dΦ        d
+           =B −
+          −          =( BA )
+                 dt      dt
+                        dA                                                                                1 point
+         For indicating     is Dv
+                        dt
+        Scoring Note: The point can be earned if a negative sign is not included.
+         Example Response
+
+                 dA
+          −
+           =   B     =− BDv
+                  dt
+         For using Ohm’s law, resulting in an expression for IS that is consistent with the expression    1 point
+         determined for emf 
+
+        Scoring Note: The point can be earned if a negative sign is not included.
+         Example Response
+
+              BDv
+          IS = −
+                R
+         Example Solution
+
+                dΦB
+           = −
+                 dt
+                        
+           = −
+                d
+                dt  (∫ B ⋅ dA)
+                d             d                   dx
+           −
+            =      ( BA) − =     ( B ( D) x) −
+                                            =  BD
+                dt            dt                  dt
+           = − BDv
+
+               ∆V
+          I =
+                R
+                
+          IS =
+                R
+                  BDv
+          IS = −
+                   R
+
+
+
+
+                                                                                             © 2024 College Board
+AP© Physics C: Electricity and Magnetism 2024 Scoring Guidelines
+
+(b)(iii)    For using a correct general expression for P                                                         1 point
+            Example Responses
+                                         ( ∆V )2
+            P = I 2R           OR   P=           OR P = I ∆V
+                                        R
+            For an expression for power that is consistent with the response in part (b)(ii) that is in          1 point
+            terms of the provided quantities only
+           Example Response
+
+               B 2 D 2v2
+           P=
+                   R
+           Example Solution
+
+           P = I 2R
+
+           P=   (   −      )
+                        BDv 2
+                         R
+                              R
+
+                B 2 D 2v2
+           P=
+                    R
+                                                                                           Total for part (b)   7 points
+(c)        For selecting Enew = Eoriginal with an attempt at a relevant justification                            1 point
+           For indicating one of the following                                                                   1 point
+           • The change in magnetic flux is the same for both scenarios.
+           • The induced current occurs for the same amount of time for all transitions.
+           • The induced emf occurs for the same amount of time for all transitions
+           Example Response
+           The change in magnetic flux in the original scenario is the same as the new scenario, which
+           produces an emf and current that are the same in both scenarios. Therefore, Enew = Eoriginal
+                                                                                           Total for part (c)   2 points
+
+
+
+
+                                                                                                    © 2024 College Board
+AP© Physics C: Electricity and Magnetism 2024 Scoring Guidelines
+
+(d)     For a sketch which has an absolute value that only decreases from x = D to x = 2 D               1 point
+        For a sketch that is zero from x = 2 D to x = 3D                                                 1 point
+        Example Response
+
+
+
+
+        Scoring Note: A response that is reflected across the horizontal axis can earn both points.
+        Scoring Note: Any portion of the graph before x = D and after x = 3D will not be scored.
+                                                                                     Total for part (d) 2 points
+                                                                                   Total for question 3 15 points
+
+
+
+
+                                                                                            © 2024 College Board
+

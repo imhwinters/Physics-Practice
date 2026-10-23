@@ -1,0 +1,117 @@
+                                    PRS02
+
+
+
+Electric field lines in the space
+surrounding a charge distribution show:
+
+1. Directions of the forces that exist in
+    space at all times.
+2. Only directions in which static charges
+    would accelerate when at points on
+    those lines
+3. Only directions in which moving
+    charges would accelerate when at
+    points on those lines.
+4. Directions in which either static or
+    moving charges would accelerate
+    when passing through points on those
+    lines.
+5. Paths static or moving charges would
+    take.
+                                   PRS02
+
+
+
+
+The force between the two charges is:
+1) Attractive
+2) Repulsive
+3) Can’t tell without more information
+                                              PRS02
+
+E-Field of Two Equal Charges
+
+
+
+
+Electric field at point P is:
+   G       2ke qs                  G         2ke qd
+1. E =              3/ 2
+                           ˆj   2. E = −              3/ 2
+                                                           ˆi
+         ⎡ 2 d ⎤
+               2
+                                           ⎡ 2 d2 ⎤
+         ⎢s + 4 ⎥                          ⎢s + 4 ⎥
+         ⎣      ⎦                          ⎣      ⎦
+   G       2ke qd                  G         2ke qs
+3. E =              3/ 2
+                           ˆj   4. E = −              3/ 2
+                                                           ˆi
+         ⎡ 2 d ⎤
+               2
+                                           ⎡ 2 d2 ⎤
+         ⎢s + 4 ⎥                          ⎢s + 4 ⎥
+         ⎣      ⎦                          ⎣      ⎦
+
+5. Don’t Know
+                                     PRS02
+
+
+
+E-Field of Five Equal Charges
+
+
+
+
+Six equal positive charges q sit at the
+vertices of a regular hexagon with sides
+of length R. We remove the bottom
+charge. The electric field at the center of
+the hexagon (point P) is:
+   G 2kq                       G  2kq ˆ
+1. E = 2 ˆj              2.    E=− 2 j
+       R                           R
+    G kq                       G  kq ˆ
+3. E = 2 ˆj              4.    E=− 2 j
+       R                          R
+     G G
+5. E = 0                 6. Don’t know
+                             PRS02
+
+
+
+
+      E-Field of a Dipole
+
+As you move to large distances r
+away from a dipole, the electric
+field will fall-off as:
+1) 1/r2, just like a point charge
+2) More rapidly than 1/r2
+3) More slowly than 1/r2
+4) Who knows?
+                                     PRS02
+
+
+
+An electric dipole, consisting of two
+equal and opposite point charges at the
+ends of an insulating rod, is free to rotate
+about a pivot point in the center. The rod
+is placed in a non-uniform electric field.
+
+
+
+
+The dipole will experience
+1. a noticeable electric force and no
+    noticeable electric torque
+2. no noticeable electric force and a
+    noticeable electric torque
+3. a noticeable electric force and a
+    noticeable electric torque
+4. no noticeable electric force and no
+    noticeable electric torque
+

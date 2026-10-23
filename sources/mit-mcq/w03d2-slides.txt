@@ -1,0 +1,356 @@
+       Class 08: Outline
+Hour 1:
+ Last Time: Conductors
+ Expt. 3: Faraday Ice Pail
+Hour 2:
+ Capacitors & Dielectrics
+
+
+                             P8- 1
+Last Time:
+Conductors
+
+
+
+
+             P8- 2
+     Conductors in Equilibrium
+Conductors are equipotential objects:
+1) E = 0 inside
+2) Net charge inside is 0
+3) E perpendicular to surface
+4) Excess charge on surface
+        E =σ
+                ε0
+
+                                        P8- 3
+Conductors as Shields
+
+
+
+
+                        P8- 4
+       Hollow Conductors
+       Charge placed INSIDE induces
+       balancing charge INSIDE
+
+   +    +
+    - - +
++ -
+            -
+  -        - +
+    +q
++ -- - - -
+     +     +
+                                      P8- 5
+Hollow Conductors
+Charge placed OUTSIDE induces
+charge separation on OUTSIDE
+
+
++q           -
+         -                 +
+        -
+       -         E=0
+                           +
+                       +
+                                P8- 6
+ PRS Setup
+
+O2
+I2      What happens
+O1      if we put Q in
+I1      the center?
+
+
+
+
+                         P8- 7
+ PRS Questions:
+  Point Charge
+Inside Conductor
+
+
+
+
+                   P8- 8
+  Demonstration:
+Conductive Shielding
+
+
+
+
+                       P8- 9
+Visualization: Inductive
+       Charging
+
+
+
+
+   http://ocw.mit.edu/ans7870/8/8.02T/f04/visualizatio
+   ns/electrostatics/40-chargebyinduction/40-
+   chargebyinduction.html
+                                                         P8- 10
+ Experiment 3:
+Faraday Ice Pail
+
+
+
+
+                   P8- 11
+Last Time:
+Capacitors
+
+
+
+
+             P8- 12
+Capacitors: Store Electric Energy
+
+                            Q
+                         C=
+                            ∆V
+
+
+To calculate:            Parallel Plate Capacitor:
+1) Put on arbitrary ±Q
+                                    ε0 A
+2) Calculate E                C=
+3) Calculate ∆V                       d          P8-
+    Batteries &
+Elementary Circuits
+
+
+
+
+                      P8- 14
+              Ideal Battery
+
+
+
+
+Fixes potential difference between its terminals
+Sources as much charge as necessary to do so
+
+Think: Makes a mountain
+                                              P8- 15
+       Batteries in Series
+
+
+
+        ∆V1           ∆V2
+
+
+
+Net voltage change is ∆V = ∆V1 + ∆V2
+
+Think: Two Mountains Stacked
+                                       P8- 16
+Batteries in Parallel
+
+
+              Net voltage still ∆V
+              Don’t do this!
+
+
+
+
+                                P8- 17
+Capacitors in Parallel
+
+
+
+
+                         P8- 18
+Capacitors in Parallel
+                Same potential!
+
+
+                     Q1        Q2
+                C1 =    , C2 =
+                     ∆V        ∆V
+
+
+
+
+                               P8- 19
+Equivalent Capacitance
+
+                 ?
+
+    Q = Q1 + Q2 = C1∆ V + C2 ∆ V
+      = ( C1 + C2 ) ∆ V
+
+
+          Q
+    Ceq =    = C1 + C2
+          ∆V
+
+
+                                   P8- 20
+Capacitors in Series
+
+
+
+
+    Different Voltages Now
+    What about Q?
+
+
+
+
+                             P8- 21
+Capacitors in Series
+
+
+
+
+                       P8- 22
+Equivalent Capacitance
+            Q         Q
+      ∆ V1 = , ∆ V2 =
+            C1        C2
+
+      ∆ V = ∆ V1 + ∆ V2
+      (voltage adds in series)
+
+           Q   Q Q
+      ∆V =    = +
+           Ceq C1 C2
+
+        1  1  1
+          = +
+       Ceq C1 C2
+                                 P8- 23
+        PRS Question:
+Capacitors in Series and Parallel
+
+
+
+
+                                    P8- 24
+Dielectrics
+
+
+
+
+              P8- 25
+   Demonstration:
+Dielectric in Capacitor
+
+
+
+
+                          P8- 26
+               Dielectrics
+A dielectric is a non-conductor or insulator
+Examples: rubber, glass, waxed paper
+
+When placed in a charged capacitor, the
+dielectric reduces the potential difference
+between the two plates
+
+
+                 HOW???
+                                               P8- 27
+ Molecular View of Dielectrics
+Polar Dielectrics :
+Dielectrics with permanent electric dipole moments
+Example: Water
+
+
+
+
+                                                     P8- 28
+ Molecular View of Dielectrics
+Non-Polar Dielectrics
+Dielectrics with induced electric dipole moments
+Example: CH4
+
+
+
+
+                                                   P8- 29
+       Dielectric in Capacitor
+
+
+
+
+Potential difference decreases because
+dielectric polarization decreases Electric Field!
+                                                P8- 30
+    Gauss’s Law for Dielectrics
+
+
+
+
+Upon inserting dielectric, a charge density σ’ is
+induced at its surface
+   G G           qinside (σ − σ ') A    E=
+                                           σ −σ '
+∫∫ E ⋅ dA = EA =
+w
+S
+                  ε0
+                        =
+                              ε0             ε0
+
+                  What is σ’?                       P8- 31
+        Dielectric Constant κ
+Dielectric weakens original field by a factor κ
+    σ − σ ' E0 σ                        ⎛ 1⎞
+ E=        ≡  =             ⇒   σ ' = σ ⎜1 − ⎟
+      ε0     κ κε 0                     ⎝ κ⎠
+
+Gauss’s Law with dielectrics:  Dielectric constants
+     G G q               free   Vacuum         1.0
+
+
+∫∫ κ   ⋅    =           inside Paper           3.7
+     E   dA
+S
+                        ε  0
+                                Pyrex Glass 5.6
+                                Water          80
+                                                  P8- 32
+   Dielectric in a Capacitor
+Q0= constant after battery is disconnected
+
+
+
+
+                                    V0
+Upon inserting a dielectric: V =
+                                     κ
+    Q  Q0       Q0
+  C= =       =κ    = κ C0
+    V V0 / κ    V0
+                                             P8- 33
+   Dielectric in a Capacitor
+V0 = constant when battery remains connected
+
+
+
+
+          Q           Q0
+       C = = κ C0 = κ
+          V           V0
+Upon inserting a dielectric: Q = κ Q0
+                                           P8- 34
+    PRS Questions:
+Dielectric in a Capacitor
+
+
+
+
+                            P8- 35
+Group: Partially Filled Capacitor
+
+
+
+
+  What is the capacitance of this capacitor?
+
+
+                                               P8- 36
+

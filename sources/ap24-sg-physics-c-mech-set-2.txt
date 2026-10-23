@@ -1,0 +1,483 @@
+ 2024
+
+
+
+
+AP Physics C:
+             ®
+
+
+
+
+Mechanics
+Scoring Guidelines
+Set 2
+
+
+
+
+© 2024 College Board. College Board, Advanced Placement, AP, AP Central, and the acorn logo are registered
+trademarks of College Board. Visit College Board on the web: collegeboard.org.
+AP Central is the official online home for the AP Program: apcentral.collegeboard.org.
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+
+ Question 1: Free-Response Question                                                                       15 points
+
+(a)(i)   For a multi-step derivation that includes one of the following:                                        1 point
+         •   An application of conservation of energy that indicates that the initial mechanical energy
+             of the system is U g
+         •   An application of Newton’s second law that includes the frictional force, including sign
+         For one of the following that is consistent with the previous point:                                   1 point
+         •   An expression for the energy dissipated by friction, including the correct sign
+         •   A substitution of acceleration in a kinematics equation
+         Example Responses
+                                           Fg , x − F f 
+         ∆Efriction −
+                   =  Ff D
+                         = OR v 2 v02 + 2                ∆x
+                                                2m      
+         For a correct expression for v                                                                         1 point
+         Example Response
+=v             2 gD(sin θ − µ cos θ )
+         Example Solutions
+                                                                   Fnet
+                                                                a=
+                                                                    m
+         Einitial = Efinal                                      2ma = Fg , x − F f
+         U g − ∆Efriction = K                               2ma = 2mg sin θ − µ ( 2m ) g cos θ
+                                      1     2              =a g sin θ − µ g cos θ
+         mA gD sin θ − µ mA gD cos θ  = m v   OR
+                                      2 A
+                                  1 2
+         gD sin θ − µ gD cos θ =    v                      =v 2 v02 + 2a∆x
+                                  2
+         v = 2 gD ( sin θ − µ cos θ )                           v 2 = 02 + 2 ( g sin θ − µ g cos θ ) D
+                                                                v = 2 gD ( sin θ − µ cos θ )
+
+
+
+
+                                                                                                   © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(a)(ii) For using the conservation of momentum to find vA,B                                                1 point
+
+        For equating the kinetic energy after the collision between the blocks to the maximum elastic      1 point
+        potential energy of the compressed spring
+        Example Response
+         K after collision = U s , max
+
+        For indicating v before the collision between the blocks and the spring is equal to vA,B           1 point
+
+        Example Solution
+         pbefore collision = pafter collision
+         2mv
+          = (2m + m)vA,B
+                    2m 2 gD(sin θ − µ cos θ )
+         vA,B =
+                             (3m)
+                    2
+=vA,B                 2 gD(sin θ − µ cos θ )
+                    3
+
+         Eafter collision = Emax compression of spring
+         K after collision = U s , max
+         1                   2 1 2
+           (2m + m) ( vA,B )   = kx
+         2                     2
+
+                (                               )
+                                       2
+              2
+         (3m)    2 gD(sin θ − µ cos θ ) = kxc 2
+              3
+
+
+                      (                             )
+                                               2
+               (3m) 2
+=k                     2 gD (sin θ − µ cos θ )
+                xc 2 3
+
+               8 mgD(sin θ − µ cos θ )
+         k =
+               3         xc 2
+
+                                                                                     Total for part (a)   6 points
+
+
+
+
+                                                                                              © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(b)(i)   For a sketch that increases linearly during the time interval 0 ≤ t < t1                                1 point
+
+         Scoring Note: A sketch that only increases linearly from t = 0 to t = t1 earns this point.
+
+         For a horizontal line for the time interval t1 ≤ t ≤ t2 that is continuous at t1                        1 point
+
+         For a horizontal line for the time interval t2 ≤ t ≤ t3 that has a smaller magnitude than the           1 point
+         previous time interval
+         For drawing a concave down curve, continuous at t3 , in the interval t3 ≤ t < t4 that reaches           1 point
+         zero at t4
+         Example Response
+
+
+
+
+(b)(ii) For a statement about the change in momentum that is consistent with the graph drawn in the              1 point
+        response for part (b)(i)
+         For indicating that a decreasing graph means that the force exerted on Block A is in a                  1 point
+         direction opposite to the motion of Block A
+         Scoring Note: A response that indicates that an increasing graph means that the force exerted
+         on Block A is in the same direction as the motion of Block A also earns this point.
+         For relating the change in momentum to the magnitude of the force exerted on Block A                    1 point
+         Example Response
+         The momentum of Block A decreases between t3 and t4 because the spring exerts a force on
+         the blocks in the opposite direction of the velocity of the blocks, causing the blocks to slow to
+         a stop. The spring force increases the more the spring compresses, so the momentum of Block
+          A decreases at an increasing rate, which is shown in the slope of the curve becoming steeper
+         with time.
+                                                                                            Total for part (b)   7 points
+
+
+
+
+                                                                                                    © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(c)     For selecting TN = TO with an attempt at a relevant justification                                  1 point
+
+        For a correct justification that includes one of the following:                                    1 point
+        •   The period of a spring-block oscillator is only dependent on the mass on the spring and
+            spring constant, which do not change.
+        •   The period of a spring-block oscillator is not dependent on increasing amplitude, velocity,
+            or compression distance.
+        Example Response
+        Repeating the experiment on a smooth ramp will only affect the compression distance of the
+        spring. The period of oscillation of a spring-block system depends only on mass and the spring
+        constant, therefore the period of oscillation will not change.
+                                                                                     Total for part (c)   2 points
+                                                                                  Total for question 1 15 points
+
+
+
+
+                                                                                              © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+
+Question 2: Free-Response Question                                                                      15 points
+
+(a)      For a multi-step derivation that includes Newton’s second law of motion                             1 point
+         For indicating that the net force exerted on the sphere includes only the gravitational force and   1 point
+         a drag force
+
+         Example Response
+
+         Fnet
+          = Fg − Fdrag
+
+         For a correct differential equation that is in terms of the given variables                         1 point
+
+         Scoring Note: Variables do not have to be separated for this point to be earned.
+         Example Response
+
+           dv
+         m = mg − bv
+           dt
+         Example Solution
+
+         ΣF =  ma
+         Fg − Fdrag ma
+                   =
+         mg − bv =
+                 ma
+           dv
+         m = mg − bv
+           dt
+                                                                                       Total for part (a)    3 points
+(b)(i)   For a vertical line labeled tT at the approximate location at which the line becomes horizontal     1 point
+         Example Response
+
+
+
+
+                                                                                                © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(b)(ii) For a response that references the slope of the graph or the rate at which the slope changes          1 point
+         For correctly relating a feature of the graph to the forces exerted on the sphere as the sphere      1 point
+         reaches terminal speed
+
+         Example Response
+
+         For the times leading up to tT , the slope of the graph is positive which means that the
+         magnitude of the drag force is still increasing. After tT , the slope of the graph is zero which
+         means that the magnitude of the drag force is constant and equal to the downward
+         gravitational force, which indicates that the net force is zero and that the sphere has reached
+         a constant terminal velocity.
+
+                                                                                        Total for part (b)   3 points
+(c)      For selecting “Equal to” with an attempt at a relevant justification                                 1 point
+         For a correct justification                                                                          1 point
+         Example Response
+
+         The magnitude of the drag force at terminal speed does not change since the mass of the
+         sphere is not changed and the drag force at terminal speed does not depend on the initial
+         speed of the sphere.
+                                                                                        Total for part (c)   2 points
+(d)(i)   For drawing an appropriate line of best fit that approximates the data                               1 point
+         Example Response
+
+
+
+
+                                                                                                 © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(d)(ii) For calculating a value for the slope of the line using two points on the best-fit line                1 point
+
+        Scoring Note: Using data points that fall on the best-fit line earns this point.
+
+        Example Response
+
+                   15 N − 5 N
+        slope =
+                  21 m/s − 5 m/s
+
+        For using the correct relationship between the slope of the best-fit line and the value of b           1 point
+
+        Example Response
+
+                 Fdrag
+        slope =
+                   v
+        slope = b
+
+        For a calculated value of b that is 0.6 kg s < b < 0.8 kg s                                            1 point
+
+        Example Response
+
+        b = 0.625 kg s
+
+        Example Solution
+
+         Fdrag = bv
+         Fdrag
+                =b
+           v
+        slope = b
+               15 N − 5 N
+        b=
+             21 m s − 5 m s
+        b = 0.625 kg s
+
+                                                                                        Total for part (d)    4 points
+
+
+
+
+                                                                                                  © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(e)(i)   For indicating the diameter of the sphere should be graphed                                       1 point
+
+         For indicating the terminal velocity of the sphere should be graphed                              1 point
+
+(e)(ii) For describing how the quantities graphed are related to the conclusion of the experiment          1 point
+
+         Example Response
+
+         The slope of the diameter vs terminal velocity graph can be used to determine if sphere
+         diameter affects terminal velocity.
+
+                                                                                     Total for part (e)   3 points
+
+                                                                                  Total for question 2 15 points
+
+
+
+
+                                                                                              © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+
+Question 3: Free-Response Question                                                                         15 points
+
+(a)     For drawing and appropriately labeling separate gravitational forces that are exerted on the           1 point
+        disk and the lump of clay and exerted at the correct locations
+
+        Scoring Note: Drawing a downward gravitational force exerted on the clay-disk system at the
+        correct location can earn this point.
+
+        For drawing and appropriately labeling a leftward force exerted on the system at Point A               1 point
+
+        For drawing and appropriately labeling a force directed up and right that is exerted on the            1 point
+        system at the axle, and no extraneous forces are present
+
+        Example Responses
+
+
+
+
+        Scoring Note: Examples of appropriate labels for the gravitational force include FG , Fg ,
+         Fgrav , W , mg , Mg , “grav force,” “ F Earth on disk,” “ F on disk by Earth,” FEarth on Disk ,
+         FE,Disk , and FDisk,E . The labels G or g are not appropriate labels for the gravitational force.
+
+        Scoring Note: Examples of appropriate labels for the normal force from the axle include FN ,
+         Faxle , N , “normal force,” and “axle force.”
+
+        Scoring Note: Examples of appropriate labels for the tension force include Ft , FT , T ,
+
+         Fstring , and “Force from string.”
+
+                                                                                        Total for part (a)    3 points
+
+
+
+
+                                                                                                 © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(b)     For a multi-step derivation that indicates the net torque is zero                                    1 point
+        For indicating only the weight of the clay and the tension in the string exert torques on the        1 point
+        system about the axle
+
+        Example Response
+
+        τ net = τ clay − τ string
+
+        For a correct expression for the torque exerted on the system by the weight of the clay              1 point
+
+        Example Response
+
+        τ clay = Rmc g cosθ
+
+        For a correct expression for the torque exerted on the system by the tension in the string           1 point
+
+        Example Response
+
+        τ string = RFT sin θ
+
+        Example Solution
+        Στ = 0
+        τ clay − τ string = 0
+         Fg , clay R cos θ − RFT sin θ = 0
+         Rmc g cos θ = RFT sin θ
+               Rmc g cos θ
+         FT =
+                 R sin θ
+
+         FT = mc g cot θ
+
+        Scoring Note: A maximum of three points can be earned if the trigonometric functions
+        ( sin and cos ) are reversed for both torque expressions.
+
+                                                                                      Total for part (b)    4 points
+
+
+
+
+                                                                                                © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(c)     For indicating a direct relationship between the torque exerted by the clay and the tension in       1 point
+        the string
+
+        For correctly relating a greater torque exerted by the clay from at least one of the following:      1 point
+
+        •   An increase in the angle between the radial direction and the weight of the clay
+        •   A greater perpendicular component of the weight of the clay
+        •   A greater lever arm
+
+        Example Response
+
+        The torque caused by the weight of the clay at Point B is greater than when the clay is at
+        Point A because the component of the weight that is perpendicular to the lever arm is larger.
+        To maintain equilibrium, the net torque on the system is still zero, therefore the tension
+        FT, new must be greater.
+
+                                                                                       Total for part (c)   2 points
+
+
+
+
+                                                                                                © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(d)(i)   For using integration to calculate rotational inertia                       1 point
+         For one of the following:                                                   1 point
+         •     Substituting ρ ( 2π r ) dr for dm
+         •     Indicating the correct limits of integration
+         Example Response
+                0.3 m 2
+         I =∫        r ρ ( 2π r ) dr
+                0
+
+
+         For a correct answer of I = 0.012 kg ⋅ m 2 , including units                1 point
+
+         Example Response
+
+  =I 0.012 kg ⋅ m 2
+
+         Example Solution
+
+         I = ∫ r 2 dm
+                 =    dm ρ dA
+                         =    and dA 2π r dr
+                 R
+         I = ∫ r 2 ρ dA
+                0
+                0.3 m
+         I =∫           2πβ r 4 dr
+                0
+                          0.3 m
+             2πβ R5
+         I =
+               5
+                          0
+     2π (4.0 kg m3 )(0.3 m)5
+         I =
+                5
+  =I 0.012 kg ⋅ m 2
+
+
+
+
+                                                                        © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(d)(ii) For using the rotational form of Newton’s second law                                                  1 point
+        For a correct expression for the net torque exerted on the clay-disk system                           1 point
+        Example Response
+
+        τ net = Rmc g
+
+        For indicating that the rotational inertia of the clay-disk system is the sum of the rotational       1 point
+        inertia of the disk and the rotational inertia of the lump of clay
+
+        Example Response
+
+             = I disk + I clay
+         I system
+
+        Example Solution
+
+        Στ = I α
+              τ net
+        α =
+                I
+                   Rmc g
+        α =
+              I disk + I clay
+
+        α =
+                                      (
+                      (0.3 m)(0.60 kg) 9.8 m/s 2   )
+              ( ( 0.012 kg ⋅ m ) + (0.60 kg)(0.3m)2 )
+                                2
+
+
+
+
+        α = 26.7 rad/s 2
+
+                                                                                        Total for part (d)   6 points
+                                                                                     Total for question 3 15 points
+
+
+
+
+                                                                                                 © 2024 College Board
+

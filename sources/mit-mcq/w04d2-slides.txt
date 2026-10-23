@@ -1,0 +1,433 @@
+       Class 10: Outline
+Hour 1:
+ DC Circuits
+
+Hour 2:
+ Kirchhoff’s Loop Rules
+
+
+                           P10- 1
+     Last Time:
+Capacitors & Dielectrics
+
+
+
+
+                           P10- 2
+          Capacitors & Dielectrics
+ Capacitance               To calculate:
+        Q                  1) Put on arbitrary ±Q
+     C=                    2) Calculate E
+        ∆V                 3) Calculate ∆V
+ Energy
+   Q2 1      1                         ε E 2
+U=   = Q ∆V = C ∆V = ∫∫∫ uE d 3 r = ∫∫∫ o d 3 r
+                  2
+
+   2C 2      2                           2
+ Dielectrics
+     G     G      free
+               q inside
+                        ⇒ CFilled with Dielectric = κ C0
+∫∫
+wS
+   κ E ⋅ dA  =
+                ε0
+                                                       P10-
+This Time:
+DC Circuits
+
+
+
+
+              P10-
+Examples of Circuits
+
+
+
+
+                       P10- 5
+      Current: Flow Of Charge
+Average current Iav: Charge ∆Q                ∆Q
+flowing across area A in time ∆t
+                                       I av =
+                                              ∆t
+
+Instantaneous current:
+differential limit of Iav
+
+       dQ
+    I=
+       dt
+      Units of Current: Coulombs/second = Ampere
+                                                   P10- 6
+      Direction of The Current
+Direction of current is direction of flow of pos. charge
+
+
+
+
+ or, opposite direction of flow of negative charge
+
+
+
+
+                                                      P10- 7
+             Current Density J
+    J: current/unit area
+        G I
+        J ≡ Iˆ
+           A
+Î points in direction of current
+
+              G             G G
+        I = ∫ J ⋅ nˆ dA = ∫ J ⋅ d A
+               S                    S
+
+                                        P10- 8
+     Why Does Current Flow?
+If an electric field is set up in a conductor, charge
+will move (making a current in direction of E)
+
+
+
+
+Note that when current is flowing, the conductor is
+not an equipotential surface (and Einside ≠ 0)!
+                                                        P10- 9
+         Microscopic Picture
+
+
+
+
+Drift speed is velocity forced by applied electric field
+in the presence of collisions.
+It is typically 4x10-5 m/sec, or 0.04 mm/second!
+To go one meter at this speed takes about 10 hours!
+                 How Can This Be?                      P10-10
+Conductivity and Resistivity
+                         Ability of current to
+                         flow depends on
+                         density of charges &
+                         rate of scattering
+
+
+
+Two quantities summarize this:
+
+     σ: conductivity
+     ρ: resistivity
+                                                 P10-11
+     Microscopic Ohm’s Law
+     G    G                         G   G
+     E = ρJ             or          J =σE
+
+          1
+    ρ≡
+          σ
+ρ and σ depend only on the microscopic properties
+of the material, not on its shape
+
+                                                P10-12
+   Demonstrations:
+Temperature Effects on ρ
+
+
+
+
+                           P10-13
+PRS Questions:
+ Resistance?
+
+
+
+
+                 P10-14
+      Why Does Current Flow?
+Instead of thinking of Electric Field, think of potential
+difference across the conductor
+
+
+
+
+                                                        P10-15
+                  Ohm’s Law
+What is relationship between ∆V and current?
+                             bG G
+           ∆V = Vb − Va = − ∫ E ⋅ d s = EA
+                             a
+
+
+
+
+       E∆V / A ⎫
+   J= =
+      ρ   ρ ⎪⎪            ⎛ ρA ⎞
+               ⎬ ⇒ ∆V = I ⎜    ⎟ ≡ IR
+      I        ⎪          ⎝ A ⎠
+   J=
+      A        ⎪⎭                              P10-16
+        Ohm’s Law
+
+
+
+
+∆V = IR                       R=
+                                   ρA
+                                       A
+ R has units of Ohms (Ω) = Volts/Amp
+                                           P10-17
+Examples of Circuits
+
+
+
+
+                       P10-18
+Symbols for Circuit Elements
+
+     Battery
+    Resistor
+    Capacitor
+     Switch
+
+                               P10-19
+   Sign Conventions - Battery
+Moving from the negative to positive terminal of a
+  battery increases your potential
+
+                                   ∆ V = Vb − Va
+
+
+
+                                      Think:
+                                      Ski Lift
+                                                     P10-20
+  Sign Conventions - Resistor
+Moving across a resistor in the direction of current
+  decreases your potential
+
+                                   ∆ V = Vb − Va
+
+
+
+                                       Think:
+                                       Ski Slope
+                                                       P10-21
+ Sign Conventions - Capacitor
+Moving across a capacitor from the negatively to
+  positively charged plate increases your potential
+
+                                   ∆ V = Vb − Va
+
+
+                                     Think:
+                                     Ski Lodge
+
+                                                      P10-22
+   Series vs. Parallel
+
+
+
+
+Series          Parallel
+                           P10-23
+          Resistors In Series
+The same current I must flow through both resistors
+
+
+
+
+      ∆V = I R1 + I R2 = I ( R1 + R2 ) = I Req
+
+                Req = R1 + R2
+                                                  P10-24
+         Resistors In Parallel
+Voltage drop across the resistors must be the same
+
+
+
+
+      ∆V = ∆V1 = ∆V2 = I1 R1 = I 2 R2 = IReq
+
+                ∆V ∆ V ∆ V       1  1  1
+ I = I1 + I 2 =
+                R1
+                   +
+                     R2
+                        =
+                          Req
+                                   = +
+                                Req R1 R2
+                                                 P10-25
+PRS Questions:
+  Light Bulbs
+
+
+
+
+                 P10-26
+Kirchhoff’s Loop Rules
+
+
+
+
+                         P10-27
+           Kirchhoff’s Rules
+1. Sum of currents entering any junction in a circuit
+   must equal sum of currents leaving that junction.
+
+
+
+
+                    I1 = I 2 + I 3
+                                                        P10-28
+           Kirchhoff’s Rules
+2. Sum of potential differences across all elements
+   around any closed circuit loop must be zero.
+          G G
+ ∆V = − ∫ E ⋅ d s = 0
+          Closed
+          Path
+
+
+
+
+                                                      P10-29
+             Internal Resistance
+  Real batteries have an internal resistance, r, which is
+  small but non-zero
+
+
+
+
+      Terminal voltage: ∆V = Vb − Va =     ε −Ir
+(Even if you short the leads you don’t get infinite current)
+                                                        P10-
+Steps of Solving Circuit Problem
+ 1. Straighten out circuit (make squares)
+ 2. Simplify resistors in series/parallel
+ 3. Assign current loops (arbitrary)
+ 4. Write loop equations (1 per loop)
+ 5. Solve
+
+
+
+                                       P10-31
+  Example: Simple Circuit
+                     You can simplify
+                     resistors in series
+                     (but don’t need to)
+
+
+
+
+What is current
+through the bottom
+battery?
+
+
+
+                                           P10-32
+   Example: Simple Circuit
+                        Start at a in both loops
+                        Walk in direction of current
+                        −2ε − I1 R − ( I1 − I 2 ) R = 0
+                              − ( I 2 − I1 ) R + ε = 0
+                                     −ε
+Add these: −2ε − I1 R + ε = 0 → I1 =
+                                     R
+                                             ε
+We wanted I2:   ( I 2 − I1 ) R = ε → I 2 =       + I1
+                                             R
+                     I2 = 0                              P10-33
+       Group Problem: Circuit
+Find meters’ values. All resistors are R, batteries are ε
+
+
+
+
+        HARDER                          EASIER        P10-34
+Power
+
+
+
+
+        P10-35
+           Electrical Power
+Power is change in energy per unit time
+So power to move current through circuit elements:
+          d   d          dq
+       P = U = ( q∆V ) =    ∆V
+          dt  dt         dt
+
+                P = I ∆V
+
+                                                 P10-36
+           Power - Battery
+Moving from the negative to positive terminal of a
+battery increases your potential. If current flows
+in that direction the battery supplies power
+
+                               I
+
+
+
+
+         Psupplied = I ∆V = I ε
+                                                     P10-37
+           Power - Resistor
+Moving across a resistor in the direction of current
+decreases your potential. Resistors always
+dissipate power
+
+
+
+
+                                ∆V        2
+     Pdissipated = I ∆V = I R =
+                              2
+
+                                 R
+                                                       P10-38
+          Power - Capacitor
+Moving across a capacitor from the positive to
+negative plate decreases your potential. If current
+flows in that direction the capacitor absorbs power
+(stores charge)
+
+
+
+
+                                       2
+                   dQ Q d Q    dU
+Pabsorbed = I ∆V =     =     =
+                   dt C dt 2C dt                  P10-39
+                 Energy Balance
+
+                                      ε    Q
+                                          − − IR = 0
+                                           C
+
+                                  Multiplying by I:
+
+
+           ε                          ⎛      ⎞
+                                           2
+                        Q dQ       d    1 Q
+               I = I R+
+                    2
+                             = I R+ ⎜
+                                2
+                                             ⎟
+                        C dt       dt ⎝ 2 C ⎠
+(power delivered by battery) = (power dissipated through resistor)
+                             + (power absorbed by the capacitor)
+                                                              P10-40
+PRS Questions:
+More Light Bulbs
+
+
+
+
+                   P10-41
+

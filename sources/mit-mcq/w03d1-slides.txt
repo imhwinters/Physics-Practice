@@ -1,0 +1,430 @@
+       Class 07: Outline
+Hour 1:
+ Conductors & Insulators
+ Expt. 2: Electrostatic Force
+Hour 2:
+ Capacitors
+
+
+                                P07 - 1
+ Last Time:
+Gauss’s Law
+
+
+
+
+              P07 - 2
+Gauss’s Law
+                      G G Qenc
+   ΦE =     ∫∫
+            w
+          closed
+                      E ⋅ dA =
+                            ε0
+          surface S
+
+
+   In practice, use symmetry:
+   • Spherical (r)
+   • Cylindrical (r, A)
+   • Planar (Pillbox, A)
+                             P07 - 3
+Conductors
+
+
+
+             P07 - 4
+   Conductors and Insulators
+A conductor contains charges that are free to
+move (electrons are weakly bound to atoms)
+Example: metals
+
+
+An insulator contains charges that are NOT free to
+move (electrons are strongly bound to atoms)
+Examples: plastic, paper, wood
+
+
+
+                                                 P07 - 5
+           Conductors
+Conductors have free charges
+Æ E must be zero inside the conductor
+Æ Conductors are equipotential objects
+
+                E
+      -                     +
+      -       Neutral       +
+      -                     +
+      -      Conductor      +
+                                     P07 - 6
+Equipotentials
+
+
+
+
+                 P07 - 7
+Topographic Maps
+
+
+
+
+                   P07 - 8
+         Equipotential Curves
+
+
+
+
+All points on equipotential curve are at same potential.
+Each curve represented by V(x,y) = constant
+                                                      P07 - 9
+     PRS Question:
+Walking down a mountain
+
+
+
+
+                          P07 -10
+  Direction of Electric Field E
+
+     E is perpendicular to all equipotentials
+
+
+
+
+Constant E field    Point Charge      Electric dipole
+
+
+                                                    P07 -11
+ Properties of Equipotentials
+• E field lines point from high to low potential
+• E field lines perpendicular to equipotentials
+  • Have no component along equipotential
+  • No work to move along equipotential
+
+
+
+
+                                              P07 -12
+     Conductors in Equilibrium
+Conductors are equipotential objects:
+1) E = 0 inside
+2) Net charge inside is 0
+3) E perpendicular to surface
+4) Excess charge on surface
+        E =σ
+               ε0
+
+                                        P07 -13
+       Conductors in Equilibrium
+Put a net positive charge anywhere inside a
+ conductor, and it will move to the surface
+ to get as far away as possible from the
+ other charges of like sign.
+
+
+
+
+ http://ocw.mit.edu/ans7870/8/8.02T/f04/visualizations/electrostatics/34-pentagon/34-
+                                   pentagon320.html
+                                                                                        P07 -14
+Expt. 2: Electrostatic Force
+
+
+
+
+                               P07 -15
+      Expt. 2: Electrostatic Force
+
+
+
+
+http://ocw.mit.edu/ans7870/8/8.02T/f04/visualizations/electrostatics/36-electrostaticforce/36-esforce320.html
+
+                                                                                                         P07 -16
+  Experiment 2:
+Electrostatic Force
+
+
+
+
+                      P07 -17
+Capacitors and Capacitance
+
+
+
+
+                             P07 -
+ Capacitors: Store Electric Energy
+Capacitor: two isolated conductors with equal and
+opposite charges Q and potential difference ∆V
+between them.
+
+                              Q
+                           C=
+                              ∆V
+                        Units: Coulombs/Volt or
+                                 Farads
+
+                                                    P07 -
+ Parallel Plate Capacitor
+
+       E =0     +Q = σ A
+
+
+E =?                       d
+
+               −Q = −σ A
+       E =0
+
+                               P07 -20
+      Parallel Plate Capacitor
+When you put opposite charges on plates, charges
+move to the inner surfaces of the plates to get as
+close as possible to charges of the opposite sign
+
+
+
+
+              http://ocw.mit.edu/ans7870/8/8.02T/f04/visuali
+              zations/electrostatics/35-capacitor/35-
+              capacitor320.html
+                                                               P07 -21
+     Calculating E (Gauss’s Law)
+
+
+
+
+   G G qin                        σ AGauss     σ    Q
+∫∫ E ⋅ dA =
+w                  E ( AGauss ) =            E= =
+S
+             ε0                     ε0         ε 0 Aε 0
+
+    Note: We only “consider” a single sheet! Doesn’t
+         the other sheet matter?                     P07 -22
+  Alternate Calculation Method
+                  σ
+             E=−
+                 2ε 0
+Top Sheet:         ++++++++++++++
+                 σ                            σ
+             E=                           E=
+                2ε 0                         2ε 0
+Bottom Sheet:      - - - - - - - -- - - - - -
+                                               σ
+                                          E=−
+                                              2ε 0
+                  σ    σ   σ    Q
+              E=     +    = =
+                 2ε 0 2ε 0 ε 0 Aε 0
+
+                                                     P07 -23
+       Parallel Plate Capacitor
+
+
+
+
+       top
+             G G        Q          Q    ε0 A
+∆V = − ∫ E ⋅ dS = Ed =      d   C=    =
+      bottom
+                       Aε 0        ∆V    d
+
+C depends only on geometric factors A and dP07 -24
+Demonstration:
+ Big Capacitor
+
+
+
+
+                 P07 -25
+         Spherical Capacitor
+Two concentric spherical shells of radii a and b
+
+
+                                    What is E?
+
+
+   Gauss’s Law Æ E ≠ 0 only for a < r < b,
+   where it looks like a point charge:
+               G       Q
+               E=               ˆ
+                                r
+                    4πε 0 r   2
+                                                 P07 -26
+           Spherical Capacitor
+             G G
+       outside      b
+                        Qrˆ                  Q ⎛1 1⎞
+∆V = − ∫ E ⋅ dS = − ∫           ⋅ dr rˆ   =       ⎜ − ⎟
+      inside        a
+                      4πε 0 r 2
+                                            4πε 0 ⎝ b a ⎠
+
+Is this positive or negative? Why?
+
+        Q     4πε 0
+     C=    = −1 −1
+        ∆V   a −b     (            )
+For an isolated spherical conductor of radius a:
+                   C = 4πε 0 a
+                                                        P07 -27
+          Capacitance of Earth
+ For an isolated spherical conductor of radius a:
+                   C = 4πε 0 a
+ε 0 = 8.85 ×10      −12
+                          Fm         a = 6.4 × 10 m   6
+
+
+
+                            −4
+            C = 7 × 10 F = 0.7 mF
+A Farad is REALLY BIG! We usually use pF (10-12) or nF (10-9)
+
+
+                                                          P07 -28
+1 Farad Capacitor
+
+  How much charge?
+   Q = C ∆V
+     = ( 1 F )( 1 2 V )
+     = 12C
+
+
+
+
+                          P07 -29
+    PRS Question:
+Changing C Dimensions
+
+
+
+
+                        P07 -30
+   Demonstration:
+Changing C Dimensions
+
+
+
+
+                        P07 -31
+Energy Stored in Capacitor
+
+
+
+
+                             P07 -32
+  Energy To Charge Capacitor
+                                +q
+
+
+
+
+                                -q
+
+1. Capacitor starts uncharged.
+2. Carry +dq from bottom to top.
+   Now top has charge q = +dq, bottom -dq
+3. Repeat
+4. Finish when top has charge q = +Q, bottom -Q
+                                             P07 -33
+Work Done Charging Capacitor
+At some point top plate has +q, bottom has –q
+     Potential difference is ∆V = q / C
+     Work done lifting another dq is dW = dq ∆V
+
+                                   +q
+
+
+
+
+                                   -q
+
+
+                                                  P07 -34
+Work Done Charging Capacitor
+So work done to move dq is:
+                      q 1
+       dW = dq ∆V = dq = q dq
+                      C C
+Total energy to charge to q = Q:
+                  Q
+             1
+   W = ∫ dW = ∫ q dq               +q
+             C0
+                  2
+           1Q
+         =                         -q
+           C 2                          P07 -35
+Energy Stored in Capacitor
+              Q
+    Since C =
+              ∆V
+      2
+   Q  1      1     2
+U=   = Q ∆V = C ∆V
+   2C 2      2
+Where is the energy stored???
+
+
+                                P07 -36
+    Energy Stored in Capacitor
+       Energy stored in the E field!
+                                  εo A
+ Parallel-plate capacitor:   C=          and V = Ed
+                                   d
+   1       1 ε   A         ε E 2
+                   ( Ed ) = o × ( Ad ) = uE × (volume)
+                         2
+U = CV 2 =     o
+
+   2       2 d               2
+
+
+                                           εoE   2
+   uE = E field energy density =
+                                             2
+                                                     P07 -37
+ 1 Farad Capacitor - Energy
+              How much energy?
+                  1         2
+              U = C ∆V
+                  2
+                  1
+                = ( 1 F )( 1 2 V )
+                                   2
+
+                  2
+                = 72 J
+
+Compare to capacitor charged to 3kV:
+       1          1
+   U = C ∆ V = ( 1 0 0 µ F )( 3 k V )
+                2                     2
+
+       2          2
+       1
+          (            )(          )
+                            2
+               −4
+     =   1× 1 0 F 3 × 1 0 V = 4 5 0 J
+                         3
+
+       2                                  P07 -38
+    PRS Question:
+Changing C Dimensions
+    Energy Stored
+
+
+
+
+                        P07 -39
+   Demonstration:
+Dissectible Capacitor
+
+
+
+
+                        P07 -40
+

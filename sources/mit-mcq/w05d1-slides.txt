@@ -1,0 +1,224 @@
+       Class 12: Outline
+Hour 1:
+ Working with Circuits
+ Expt. 4. Part I: Measuring V, I, R
+
+Hour 2:
+ RC Circuits
+ Expt. 4. Part II: RC Circuits
+                                      P12- 1
+      Last Time:
+Resistors & Ohm’s Law
+
+
+
+
+                        P12- 2
+    Resistors & Ohm’s Law
+                               ρA
+                          R=
+                               A
+
+                    ∆V = IR
+                      1       1  1
+                             = +
+Rseries = R1 + R2   Rparallel R1 R2
+
+
+                                      P12- 3
+Measuring Voltage & Current
+
+
+
+
+                              P12- 4
+  Measuring Potential Difference
+A voltmeter must be hooked in parallel across the
+element you want to measure the potential difference
+across
+
+
+
+
+ Voltmeters have a very large resistance, so that
+ they don’t affect the circuit too much
+                                                    P12-
+          Measuring Current
+An ammeter must be hooked in series with the
+element you want to measure the current through
+
+
+
+
+ Ammeters have a very low resistance, so that
+ they don’t affect the circuit too much
+                                                  P12-
+         Measuring Resistance
+An ohmmeter must be hooked in parallel across the
+element you want to measure the resistance of
+
+
+
+
+           Here we are measuring R1
+
+Ohmmeters apply a voltage and measure the
+current that flows. They typically won’t work if the
+resistor is powered (connected to a battery)           P12-
+      Experiment 4:
+Part 1: Measuring V, I & R
+
+
+
+
+                             P12- 8
+RC Circuits
+
+
+
+
+              P12- 9
+   (Dis)Charging a Capacitor
+1. When the direction of current flow is toward
+   the positive plate of a capacitor, then
+                                        Charging
+         dQ
+    I =+
+         dt
+
+2. When the direction of current flow is away from
+   the positive plate of a capacitor, then
+                                        Discharging
+        dQ
+   I =−
+        dt
+                                                      P12-10
+   Charging A Capacitor
+
+
+
+
+What happens when we close switch S?
+                                       P12-11
+    Charging A Capacitor
+
+
+NO CURRENT
+  FLOWS!
+
+
+
+1. Arbitrarily assign direction of current
+2. Kirchhoff (walk in direction of current):
+                    Q
+       ∑i ∆Vi = ε − C − IR = 0                 P12-12
+        Charging A Capacitor
+                  Q dQ     dQ       dt
+                ε− =   R⇒        =−
+                  C dt    Q − Cε    RC
+                         Q  dQ        t dt
+                       ∫0 Q − Cε = − ∫0 RC
+A solution to this differential equation is:
+
+
+     Q (t ) = C        ε (1 − e        − t / RC
+                                                  )
+RC is the time constant, and has units of seconds P12-13
+    Charging A Capacitor
+
+
+
+
+                                 dQ ε − t / RC
+Q = Cε 1 − e
+       (       − t / RC
+                          )   I=    = e
+                                 dt  R
+                                                 P12-14
+  PRS Questions:
+Charging a Capacitor
+
+
+
+
+                       P12-15
+ Discharging A Capacitor
+
+
+
+
+What happens when we close switch S?
+                                       P12-16
+Discharging A Capacitor
+NO CURRENT
+                          dq
+  FLOWS!             I =−
+                          dt
+
+
+
+
+              q
+     ∑i ∆Vi = C − IR = 0
+                               P12-17
+    Discharging A Capacitor
+                           Q   t
+   dq   q         dq      dt
+      +   =0 ⇒ ∫     = −∫
+   dt RC       Q0
+                  q     0
+                          RC
+
+
+                − t / RC
+Q (t ) = Qo e
+
+
+                                   P12-18
+          General Comment: RC
+ All Quantities Either:
+
+
+
+
+Value(t ) = Value Final (1 − e − t /τ )   Value(t ) = Value0 e − t /τ
+
+ τ can be obtained from differential equation
+ (prefactor on d/dt) e.g. τ = RC
+                                                                        P12-19
+           Exponential Decay
+                              Very common curve in
+                                 physics/nature
+         (t0,v0)              How do you measure τ?
+
+               (t0+τ,v0/e)    1) Fit curve (make sure
+                                 you exclude data at
+                                 both ends)
+                              2) a) Pick a point
+Value(t ) = Value0 e − t /τ      b) Find point with y
+                                    value down by e
+                                 c) Time difference is τ
+                                                        P12-20
+ Demonstrations:
+RC Time Constants
+
+
+
+
+                    P12-21
+  Experiment 4:
+Part II: RC Circuits
+
+
+
+
+                       P12-22
+        PRS Question:
+Multiloop circuit with Capacitor
+         in One Loop
+
+
+
+
+                                   P12-23
+

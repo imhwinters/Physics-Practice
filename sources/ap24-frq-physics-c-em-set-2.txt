@@ -1,0 +1,684 @@
+ 2024
+
+
+
+
+AP Physics C:
+             ®
+
+
+
+
+Electricity and
+Magnetism
+Free-Response Questions
+Set 2
+
+
+
+
+© 2024 College Board. College Board, Advanced Placement, AP, AP Central, and the acorn logo are registered
+trademarks of College Board. Visit College Board on the web: collegeboard.org.
+AP Central is the official online home for the AP Program: apcentral.collegeboard.org.
+AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+                      ADVANCED PLACEMENT PHYSICS C TABLE OF INFORMATION
+                                      CONSTANTS AND CONVERSION FACTORS
+             Proton mass, m p       1.67  10 27 kg      Electron charge magnitude,              e     1.60  10 19 C
+            Neutron mass, mn        1.67  10 27 kg                       1 electron volt, 1 eV        1.60  10 19 J
+            Electron mass, me       9.11  10 31 kg                  Speed of light,             c     3.00  108 m s
+                                                             Universal gravitational                    6.67  10 11 N<m 2      kg 2
+  Avogadro’s number, N 0            6.02  10 23 mol 1                                          G
+                                                                            constant,
+                                                          Acceleration due to gravity
+Universal gas constant,       R     8.31 J (mol <K)
+                                                                  at Earth’s surface,             g     9.8 m s2
+Boltzmann’s constant, k B           1.38  10 23 J K
+                          1 unified atomic mass unit,                1u      1.66  10 27 kg         931 MeV c 2
+                                     Planck’s constant,                h     6.63  10 34 J <s       4.14  10 15 eV <s
+                                                                      hc     1.99  10 25 J <m        1.24  103 eV < nm
+                                  Vacuum permittivity,                e0     8.85  10 12 C2 N < m 2
+
+                              Coulomb’s law constant, k         1 4 pe0        9.0  109 N< m 2          C2
+                                  Vacuum permeability,                m0      4 p  10 7 (T <m) A
+                                     Magnetic constant, k      m0 4 p         1  10 7 (T< m) A
+                                1 atmosphere pressure,              1 atm     1.0  105 N m 2          1.0  105 Pa
+
+                         meter,        m       mole,      mol            watt,           W                 farad,            F
+                       kilogram,       kg      hertz,     Hz           coulomb,          C                 tesla,            T
+             UNIT       second,         s     newton,      N             volt,           V            degree Celsius,       C
+           SYMBOLS
+                        ampere,        A      pascal,     Pa             ohm,            W             electron volt,       eV
+                        kelvin,        K       joule,      J            henry,           H
+
+       PREFIXES                             VALUES OF TRIGONOMETRIC FUNCTIONS FOR COMMON ANGLES
+                                                       D
+Factor  Prefix  Symbol                        q       0     30D   37D   45D    53D   60D   90D
+ 109          giga        G                  sin q        0          12         35         2 2           45         3 2          1
+ 106          mega        M                  cos q        1           3 2       45         2 2           35        12            0
+ 103          kilo        k                  tan q        0           3 3       34           1           43           3          
+ 10 2        centi       c
+ 10 3        milli       m              The following assumptions are used in this exam.
+ 10   6      micro       m                  I. The frame of reference of any problem is inertial unless otherwise
+                                                 stated.
+ 10 9        nano        n                 II. The direction of current is the direction in which positive charges
+10 12        pico        p                      would drift.
+                                           III. The electric potential is zero at an infinite distance from an isolated
+                                                 point charge.
+                                           IV. All batteries and meters are ideal unless otherwise stated.
+                                            V. Edge effects for the electric field of a parallel plate capacitor are
+                                                 negligible unless otherwise stated.
+
+
+
+                                                   © 2024 College Board.
+                                     Visit College Board on the web: collegeboard.org.
+
+                                                                2
+       AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+                                           ADVANCED PLACEMENT PHYSICS C EQUATIONS
+
+                                   MECHANICS                                            ELECTRICITY AND MAGNETISM
+Ãx      Ãx 0  a x t                   a = acceleration               G              1 q1q2                  A = area
+                                       E = energy                     FE                                     B = magnetic field
+                           1 2                                                      4pe0 r 2
+x      x0  Ãx 0 t         at         F = force                                                             C = capacitance
+                           2 x                                                 G
+                                       f = frequency                  G        FE                            d = distance
+Ãx2             2
+        Ãx 0  2 a x x  x0                                           E
+                                       h = height                               q                            E = electric field
+            G       G                  I = rotational inertia                                                e = emf
+G
+a
+        ÇF          Fnet
+                                       J = impulse                         G    G       Q                    F = force
+         m           m
+                                       K = kinetic energy             Ôv E < dA         e0                   I = current
+G         G                            k = spring constant                                                   J = current density
+        dp                                                                       dV
+F                                       A = length                    Ex                                    L = inductance
+         dt                                                                       dx
+                                       L = angular momentum                                                  A = length
+G         G            G                                                            G G
+J                                      m = mass                                                              n = number of loops of wire
+        Ô F dt        Dp
+                                       P = power
+                                                                      DV         Ô E <dr
+                                                                                                                     per unit length
+G       G                              p = momentum                                                          N = number of charge carriers
+p      mv                                                                       1     qi                             per unit volume
+                                                                               4pe0 Ç
+                                       r = radius or distance         V
+G             G                                                                       r
+                                                                                    i i                      P = power
+Ff          m FN                       T = period
+                                       t = time                                                              Q = charge
+                      G G                                                                        1 q1q2      q = point charge
+                                       U = potential energy           UE        qV
+DE       W          Ô F <dr                                                                     4pe0 r       R = resistance
+                                       v = velocity or speed
+        1 2                            W = work done on a system                                             r = radius or distance
+K         mÃ                                                                    Q
+        2                              x = position                   DV                                     t = time
+                                                                                C
+                                        m = coefficient of friction                                          U = potential or stored energy
+        dE                                                                     k e0 A                        V = electric potential
+P                                      q = angle                      C
+        dt                                                                       d
+                                        t = torque                                                           v = velocity or speed
+        G G                                                                                                   r = resistivity
+P       F <v                            w = angular speed             Cp
+                                        a = angular acceleration
+                                                                                Ç Ci                         F = flux
+                                                                                 i
+DUg             mg Dh                   f = phase angle                                                      k = dielectric constant
+                                         G       G                    1                 1                     G      G G
+                                        Fs  k D x                    Cs
+                                                                                ÇC                            FM    qv  B
+         Ã2                                                                         i   i
+ac                  w2r                                                                                         G G
+          r
+G      G G
+                                       Us
+                                              1
+                                                k Dx
+                                                     2
+                                                                      I
+                                                                               dQ                            vÔ < d A m0 I
+                                                                                                                B
+                                              2                                dt
+t      r F                                                                                                               G
+                                       x     xmax cos( wt  f
+                                                                                                              G    m0 I d A  r
+           G G                                                                  1
+                                                                                  QDV
+                                                                                                  1
+                                                                                                    C DV 2   dB
+G      Çt    t net                                                    UC                                           4p r 2
+a                                                                               2                 2
+         I     I                             2p         1                                                    G         G G
+                                       T                                       rA
+                                             w          f             R                                      F    Ô AB
+                                                                                                                   I d
+            2                  2                                               A
+I      Ô r dm           Ç mr
+                                                    m                 G         G                            Bs    m0 nI
+                                        Ts    2p                      E        rJ
+                                                    k
+            Ç mi xi                                                                                                    G G
+x cm                                                                  I        Nevd A                        FB    Ô   B < dA
+            Ç mi                       Tp     2p
+                                                    A
+                                                    g                                                               G G
+Ã      rw                                                                      DV                                                   d FB
+                                        G                             I                                      e    Ôv < d A
+                                                                                                                    E           
+G                                              Gm1m2                            R                                                     dt
+        G G           G                 FG
+L       r  p        Iw                            r2                 Rs        Ç Ri                                   dI
+                                                                                                             e    L
+        1 2                                        Gm1m2                        i                                      dt
+K         Iw                           UG     
+        2                                            r                1                 1                          1 2
+                                                                                ÇR                           UL      LI
+                                                                      Rp            i       i                      2
+w      w0  at
+
+                          1 2                                         P        I DV
+q      q0  w0 t           at
+                          2
+
+                                                                      3
+AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+                           ADVANCED PLACEMENT PHYSICS C EQUATIONS
+
+           GEOMETRY AND TRIGONOMETRY                                      CALCULUS
+
+  Rectangle                   A = area                                  df   d f du
+                                                                           
+    A  bh                    C = circumference                         dx   du dx
+                              V = volume
+  Triangle
+                              S = surface area
+                                                                        d n
+                                                                        dx
+                                                                            x   nxn 1
+           1
+     A      bh               b = base
+           2                  h = height                                   e   aeax
+                                                                        d ax
+                                                                        dx
+  Circle                       = length
+                              w = width                                 d
+     A  pr2                                                               ln ax   1
+                              r = radius                                dx            x
+     C  2p r                 s = arc length                            d
+    s  rq                    q = angle                                 dx
+                                                                           sin ax   a cos ax
+  Rectangular Solid
+                                                                        d
+    V  wh                                                             dx
+                                                                           cos ax    a sin ax
+  Cylinder                      s
+                                                                                     1
+                                                                         x dx  n  1 x
+                                                                           n                  n 1
+                                          r                                                          , n  1
+     V  pr   2
+                                      q
+                                                                                   1 ax
+                                                                         e dx  a e
+                                                                          ax
+     S  2p r   2p r 2
+  Sphere
+                                                                           dx
+        4
+     V  pr3
+                                                                         x  a  ln x  a
+        3
+                                                                                          1
+     S  4p r      2                                                     cos ax dx  a sin ax
+                                                                                              1
+  Right Triangle                                                         sin ax dx   a cos ax
+     a 2  b2  c2
+                                                                        VECTOR PRODUCTS
+             a                                                           
+     sin q 
+             c                                                          A B  AB cos q
+                                          c                               
+     cos q 
+               b                                        a                A  B  AB sin q
+               c                     q            90°
+                                              b
+               a
+     tan q 
+               b
+
+
+
+
+                                           © 2024 College Board.
+                             Visit College Board on the web: collegeboard.org.
+
+                                                            4
+   AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+                             Begin your response to QUESTION 1 on this page.
+
+
+                               PHYSICS C: ELECTRICITY AND MAGNETISM
+                                                   SECTION II
+                                                Time—45 minutes
+                                                    3 Questions
+
+
+Directions: Answer all three questions. The suggested time is about 15 minutes for answering each of the questions,
+which are worth 15 points each. The parts within a question may not have equal weight. Show all your work in this
+booklet in the spaces provided after each part.
+
+
+
+
+1. A nonconducting rod of uniform negative linear charge density is near a sphere with charge + 1.0 nC . The rod and
+   sphere are held at rest on the y -axis, as shown in Figure 1. Equipotential lines and positions A, B, C, D, and E
+   are labeled. Adjacent tick marks on the x -axis and on the y -axis are 0.40 m apart.
+
+  (a) Calculate the absolute value of the electric flux through the Gaussian surface whose cross section is the 0.0 V
+      equipotential line.
+
+
+
+
+                                                                                 GO ON TO THE NEXT PAGE.
+
+
+                                                © 2024 College Board.
+                                  Visit College Board on the web: collegeboard.org.
+
+                                                           5
+AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+
+                           Continue your response to QUESTION 1 on this page.
+
+
+
+ A positive test charge (not shown) is placed and held at rest at Position C. An external force is applied to the test
+ charge to move the test charge to different positions in the order of C→E→D→A. The test charge is held
+ momentarily at rest at each position.
+
+ (b) The bar shown in Figure 2 represents the absolute value of the work WCE done by the external force on the
+     test charge to move the test charge from Position C to Position E .
+         i. Complete the following tasks on Figure 2 .
+
+      • Draw a bar to represent the relative absolute value of the work WED done by the external force
+        on the test charge to move the test charge from Position E to Position D.
+      • Draw a bar to represent the relative absolute value of the work WDA done by the external force
+        on the test charge to move the test charge from Position D to Position A.
+      • The height of each bar should be proportional to the value of WCE . If WED = 0 and/or WDA = 0,
+        write a “0 ” in the corresponding columns, as appropriate.
+
+
+
+
+         ii. Calculate the approximate magnitude of the x -component of the electric field at Position B.
+
+
+
+
+                                                                                  GO ON TO THE NEXT PAGE.
+
+
+                                              © 2024 College Board.
+                                Visit College Board on the web: collegeboard.org.
+
+                                                          6
+AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+
+                          Continue your response to QUESTION 1 on this page.
+
+
+
+The positive test charge is placed at Position C. The test charge is then released from rest.
+
+(c) Indicate the direction (not components) of the net electric force exerted on the test charge immediately after
+    the test charge is released from rest.
+
+_____ + x         _____ + y          _____ Directly away from the sphere
+
+_____ −x           _____ −y           _____ Directly toward the sphere
+
+Without using equations, justify your answer using physics principles.
+
+
+
+
+                                                                                 GO ON TO THE NEXT PAGE.
+
+
+                                               © 2024 College Board.
+                                 Visit College Board on the web: collegeboard.org.
+
+                                                           7
+AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+
+                            Continue your response to QUESTION 1 on this page.
+
+
+
+
+ The sphere and the test charge are removed. The rod has length 2L and uniform negative linear charge
+ density −l . The rod is held at rest on the y -axis in the orientation shown in Figure 3. Position P (not shown) is
+ located on the y -axis a distance yP from the origin, where yP > 2L .
+
+                                                     ⎛ yP ⎞
+ (d) The electric potential VP at yP is VP = −kl ln⎜⎜⎜          ⎟⎟.
+                                                       y  − 2 L  ⎟⎟
+                                                     ⎝⎜ P         ⎠⎟
+         i. Using integral calculus, derive the expression for VP provided.
+
+
+
+
+                                                                                  GO ON TO THE NEXT PAGE.
+
+
+                                                © 2024 College Board.
+                                  Visit College Board on the web: collegeboard.org.
+
+                                                             8
+AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+
+                        Continue your response to QUESTION 1 on this page.
+
+
+      ii. On Figure 4, sketch a graph of the y -component E y of the electric field resulting from the rod as a
+       function of y in the region 2L < y < 12L.
+
+
+
+
+                                                                               GO ON TO THE NEXT PAGE.
+
+
+                                            © 2024 College Board.
+                              Visit College Board on the web: collegeboard.org.
+
+                                                        9
+   AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+                             Begin your response to QUESTION 2 on this page.
+
+
+
+
+2. Students are asked to determine the resistance R of identical resistors RA and RB. The resistors are connected in
+   series with each other, a battery of known emf Ɛ, an inductor of known inductance L , and a switch, as shown in
+   Figure 1. The students have access to a voltmeter that can measure potential difference as a function of time. The
+   students are required to measure a quantity that increases with time to determine R.
+  (a)
+          i. On the circuit diagram shown in Figure 1, draw the voltmeter, using the following symbol, with
+           connections that would allow the students to correctly measure a potential difference that increases with
+           time.
+
+
+
+
+          ii. Describe a procedure for collecting data that would allow the students to graphically determine the
+           experimental value for R using a measured quantity that increases with time. Provide enough detail so
+           that another student could replicate the experiment.
+
+
+
+
+                                                                                  GO ON TO THE NEXT PAGE.
+
+
+                                                 © 2024 College Board.
+                                   Visit College Board on the web: collegeboard.org.
+
+                                                           10
+AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+
+                          Continue your response to QUESTION 2 on this page.
+
+
+ (b)
+         i. On the axes shown in Figure 2 , produce a graph that represents the expected trend of the data by
+          completing the following tasks.
+
+       • Label the quantities graphed on the vertical and horizontal axes.
+       • Sketch a line or curve that represents the expected trend of the collected data.
+       • Label any appropriate intercepts and/or asymptotes in terms of the quantities provided.
+
+
+
+
+         ii. Describe how the information from the graph in part (b)(i) would be used to determine the
+          experimental value for R.
+
+
+
+
+                                                                                GO ON TO THE NEXT PAGE.
+
+
+                                             © 2024 College Board.
+                               Visit College Board on the web: collegeboard.org.
+
+                                                        11
+AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+
+                          Continue your response to QUESTION 2 on this page.
+
+
+
+(c) Starting with an appropriate application of Kirchhoff’s loop rule, derive, but do NOT solve, a differential
+    equation that can be used to determine the current I in the inductor at time t after the switch is closed. Express
+    your answer in terms of R, Ɛ, L , t , and physical constants, as appropriate.
+
+
+
+
+After reaching steady state, the absolute value of the potential difference across RA is ΔV1 . The students replace
+the original inductor with a new inductor that has nonnegligible resistance. The experiment is repeated. After a
+long time, the absolute value of the potential difference across RA is ΔV2 .
+
+(d) Indicate whether ΔV2 is greater than, less than, or equal to ΔV1 .
+
+_____ ΔV2 > ΔV1           _____ ΔV2 < ΔV1              _____ ΔV2 = ΔV1
+
+Justify your answer.
+
+
+
+
+                                                                                 GO ON TO THE NEXT PAGE.
+
+
+                                              © 2024 College Board.
+                                Visit College Board on the web: collegeboard.org.
+
+                                                          12
+   AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+                                Begin your response to QUESTION 3 on this page.
+
+
+
+
+3. A wire is connected to a resistor of resistance R to form a rigid square loop of side length D . An external force is
+   exerted on the loop so that the loop always moves with constant speed v in the +x direction, as shown in Figure 1.
+   The loop then enters Region 1 of external uniform magnetic field of magnitude B that is directed in
+   the +z -direction. Region 1 has boundaries x = D and x = 2D. The loop later enters Region 2 of external uniform
+   magnetic field of magnitude 2B that is directed in the + z -direction. Region 2 has boundaries x = 2D
+   and x = 3.5D . Point S is the midpoint of the leading edge of the loop.
+
+
+
+
+                                                                                   GO ON TO THE NEXT PAGE.
+
+
+                                                 © 2024 College Board.
+                                   Visit College Board on the web: collegeboard.org.
+
+                                                            13
+AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+
+                          Continue your response to QUESTION 3 on this page.
+
+ (a) On the following axes, sketch a graph of the magnetic flux Φ through the square loop as a function of the
+     position x of Point S from x = 0 to x = 4.5D . The + z -direction indicated in Figure 1 corresponds to +Φ .
+
+
+
+
+ (b) Consider the instant when Point S reaches x = 1.5D .
+        i. Indicate whether the current IS that is induced in the square loop when Point S reaches x = 1.5D is
+         clockwise, counterclockwise, or zero.
+
+        _____ Clockwise         _____ Counterclockwise          _____ Zero
+
+        Briefly justify your answer.
+
+
+
+
+                                                                               GO ON TO THE NEXT PAGE.
+
+
+                                             © 2024 College Board.
+                               Visit College Board on the web: collegeboard.org.
+
+                                                       14
+AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+
+                       Continue your response to QUESTION 3 on this page.
+
+
+      ii. Derive an expression for IS when Point S reaches x = 1.5D . If IS = 0, indicate how the derived
+       expression shows that IS = 0. Express your answer in terms of R, D , v, B, and physical constants, as
+       appropriate.
+
+
+
+
+      iii. Derive an expression for the power P dissipated by the resistor when Point S reaches x = 1.5D .
+       Express your answer in terms of R, D , v, B, and physical constants, as appropriate.
+
+
+
+
+                                                                            GO ON TO THE NEXT PAGE.
+
+
+                                            © 2024 College Board.
+                              Visit College Board on the web: collegeboard.org.
+
+                                                      15
+AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+
+                            Continue your response to QUESTION 3 on this page.
+
+
+
+ The total energy dissipated by the resistor in the square loop as Point S moves from x = 0 to x = 4.5D
+ is Eoriginal .
+
+ The vertical boundary between regions 1 and 2 is now shifted to x = 2.5D . After the boundary is shifted, the
+ square loop again moves with speed v in the + x-direction, as shown in Figure 2 . The total energy dissipated by
+ the resistor as Point S moves from x = 0 to x = 4.5D is E new.
+
+
+
+
+ (c) Indicate whether E new is greater than, less than, or equal to Eoriginal .
+
+ _____ E new > Eoriginal         _____ E new < Eoriginal         _____ E new = Eoriginal
+
+ Briefly justify your answer.
+
+
+
+
+                                                                                   GO ON TO THE NEXT PAGE.
+
+
+                                               © 2024 College Board.
+                                 Visit College Board on the web: collegeboard.org.
+
+                                                           16
+AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+
+                         Continue your response to QUESTION 3 on this page.
+
+
+
+The original magnetic fields are modified so that the region D < x < 3.5D contains an external uniform magnetic
+field of magnitude B that is directed in the + z -direction.
+
+A new wire is connected to a resistor of resistance R to form a rigid triangular loop with base length D and
+height D . An external force is exerted on the loop so that the loop always moves with speed v in the + x-direction,
+as shown in Figure 3. Point S represents the upper-leading corner of the loop.
+
+
+
+
+(d) On the following axes, sketch a graph of the induced current IT in the loop as Point S moves
+    from x = D to x = 3D.
+
+
+
+
+                                                                               GO ON TO THE NEXT PAGE.
+
+
+                                              © 2024 College Board.
+                                Visit College Board on the web: collegeboard.org.
+
+                                                         17
+AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions
+
+
+
+
+                                                 STOP
+
+
+                                            END OF EXAM
+
+
+
+
+                                          © 2024 College Board.
+                            Visit College Board on the web: collegeboard.org.
+
+                                                   18
+

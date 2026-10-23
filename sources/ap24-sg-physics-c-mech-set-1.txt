@@ -1,0 +1,511 @@
+ 2024
+
+
+
+
+AP Physics C:
+             ®
+
+
+
+
+Mechanics
+Scoring Guidelines
+Set 1
+
+
+
+
+© 2024 College Board. College Board, Advanced Placement, AP, AP Central, and the acorn logo are registered
+trademarks of College Board. Visit College Board on the web: collegeboard.org.
+AP Central is the official online home for the AP Program: apcentral.collegeboard.org.
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+
+ Question 1: Free-Response Question                                                                      15 points
+
+(a)(i)   For a multi-step derivation with an application of the conservation of mechanical energy that       1 point
+         indicates that all of the energy of the system is initially U s
+         Example Response
+         Einitial = Efinal
+         1 2 1 2
+           kx = mv
+         2 c        2
+         For a correct solution for v                                                                        1 point
+         Example Response
+                  k
+         v = xc
+                  m
+         Example Solution
+         Einitial = Efinal
+         Us = K
+         1 2 1 2
+           kx = mv
+         2 c        2
+               kxc 2
+         v=
+                m
+                  k
+         v = xc
+                 m
+
+
+
+
+                                                                                              © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(a)(ii) For a derivation to solve for the speed at x2 that includes one of the following:                    1 point
+
+        •   An appropriate application of the conservation of energy
+        •   An appropriate kinematics equation
+        Example Responses
+
+        Kinitial − ∆Efriction K
+                             =  final   OR         v 2 = v02 + 2a∆x
+        For one of the following that is consistent with the previous point in the response for              1 point
+        part (a)(ii):
+        •   A correct expression for the energy dissipated by friction
+        •   A correct expression for the acceleration of the block in the region with nonnegligible
+            friction
+        Example Responses
+        ∆Efriction = µ mgD              OR         a = −µ g
+
+        For attempting to derive an expression for vA,B by using the conservation of momentum                1 point
+
+        Example Response
+        minitial vinitial = mA,B vA,B
+
+        For substituting the expression for the speed at x2 that is consistent with the first point of       1 point
+        the response in part (a)(ii) and substituting the correct masses into an expression for
+        conservation of momentum
+        Example Response
+
+                     kxc 2
+                 m         − 2 µ gD
+        vA,B =        m
+                          4m
+
+
+
+
+                                                                                                  © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+  Example Solutions
+   E x1 = Ebefore collision                             v2 2 v 2 + 2a∆x
+                                                        =
+   K x1 − ∆Efriction K
+                    =  before collision                                k 
+                                                                            2
+                                                   OR     v2 2 =  xc      + 2aD
+          2
+                   2
+                                                                      m 
+   1  kxc            1
+     m      − µ mgD = mv 2
+   2   m              2 2                                         kxc 2
+                                                        v2 =           + 2aD
+                                                                    m
+            kxc 2
+=v2               − 2 µ gD
+             m                                            ΣFx =− F f = ma
+                                                          − µ mg = ma
+   Σpbefore collision Σp
+                     =  after collision
+                                                          a = −µ g
+   mA v2 = mA,B vA,B
+                                                                   kxc 2
+   mA v=
+       2 (m + 3m)vA,B                                     v2 =           − 2 µ gD
+                                                                    m
+                kxc 2
+            m         − 2 µ gD
+   vA,B =        m                                        Σpbefore collision Σpafter
+                                                                            =        collision
+                     4m
+                                                          mA v2 = mA,BvA,B
+                2                                         mA v=
+                                                              2 (m + 3m)vA,B
+          1 kxc
+   vA,B =         − 2 µ gD                                             kxc 2
+          4 m                                                      m         − 2 µ gD
+                                                          vA,B =        m
+                                                                            4m
+
+                                                                         2
+                                                                   1 kxc
+                                                          vA,B =           − 2 µ gD
+                                                                   4 m
+
+
+                                                                                 Total for part (a)    6 points
+
+
+
+
+                                                                                           © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(b)(i)   For a nonlinear sketch that begins at zero and increases for the entire time interval 0 ≤ t ≤ t1      1 point
+
+         For a sketch that decreases for the entire time interval t1 ≤ t ≤ t2 but does not go to zero          1 point
+
+         For a sketch that is concave up for the time interval t1 ≤ t ≤ t2                                     1 point
+
+         For a continuous function for the time interval t1 ≤ t ≤ t3 that has a horizontal line that is        1 point
+         greater than zero for the time interval t2 ≤ t ≤ t3
+         Example Response
+
+
+
+
+(b)(ii) For a statement about the change in kinetic energy that is consistent with the graph drawn in          1 point
+        the response for part (b)(i)
+         For a correct explanation for why the kinetic energy is increasing, such as one of the                1 point
+         following:
+         •   An increasing graph means positive work is being done on the block.
+         •   An external force is exerted on Block A , causing the velocity of the block to increase
+             and the kinetic energy of the block to increase.
+         •   Mechanical energy is conserved and/or there is no work done for the block-spring
+             system, and the potential energy decreases.
+         For a correct explanation for why the graph is nonlinear, such as one of the following:               1 point
+         •   The rate at which the slope of the graph changes is related to the rate at which work is
+             being done on the block.
+         •   The external force exerted on Block A is changing, which causes a nonuniform change
+             in the velocity of Block A , which results in a nonuniform change in kinetic energy.
+         Example Response
+         From 0 < t < t1 , the kinetic energy of Block A increases. The force exerted on the block by
+         the compressed spring transfers the elastic potential energy in the block-spring system to the
+         kinetic energy of the block. Because the force exerted by the spring is not applied at a
+         constant rate, the kinetic energy of the block does not increase at a constant rate.
+                                                                                       Total for part (b)     7 points
+
+
+
+
+                                                                                                  © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(c)     For selecting f 2 < f  with an attempt at a relevant justification                               1 point
+
+        For correctly applying an equation that relates the length of a pendulum to the period or          1 point
+        frequency of the pendulum
+        Example Response
+                                                                    l
+        The period of a pendulum is calculated by using T = 2π        . Therefore, as the length is
+                                                                    g
+        increased, the period will also increase. Because frequency and period are inversely related,
+        an increase in period will result in a decrease in frequency.
+
+                                                                                      Total for part (c)   2 points
+                                                                                   Total for question 1 15 points
+
+
+
+
+                                                                                              © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+
+Question 2: Free-Response Question                                                                         15 points
+
+(a)      For a multi-step derivation that includes Newton’s second law of motion                               1 point
+         For indicating that the net force exerted on the cylinder includes only the gravitational force       1 point
+         and a drag force
+         Example Response
+
+         Fnet
+          = Fg − Fdrag
+         For a correct differential equation that is in terms of the given variables                           1 point
+
+         Scoring Note: Variables do not have to be separated for this point to be earned.
+         Example Response
+
+           dv
+         m = mg − bv 2
+           dt
+         Example Solution
+
+         ΣF =  ma
+         Fg − Fdrag ma
+                   =   y
+
+         mg − bv 2 =
+                   ma y
+           dv
+         m = mg − bv 2
+           dt
+                                                                                        Total for part (a)    3 points
+(b)(i)   For a vertical line labeled t1 at the approximate location at which the line becomes horizontal       1 point
+         Example Response
+
+
+
+
+                                                                                                 © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(b)(ii) For relating t1 to the time at which the velocity versus time graph is constant or the slope of           1 point
+         the line is zero
+         For indicating that a constant velocity indicates that the net force is zero                             1 point
+         Example Response
+         Because the sketched line is horizontal after t1 , the velocity is constant. If the velocity is
+         constant, then the acceleration is zero. Therefore, the net force is zero, which means that the
+         gravitational and drag forces are equal in magnitude.
+                                                                                           Total for part (b)    3 points
+(c)      For selecting “Equal to” with an attempt at a relevant justification                                     1 point
+         For a correct justification                                                                              1 point
+         Example Response
+         At its peak, the cylinder will have a speed of 0 m/s . Therefore, the cylinder would reach the
+         same vmax as if the student had dropped the cylinder from rest at that height. Because the
+         cylinder reached vmax from the initial drop, the two max speeds are equal.
+
+                                                                                           Total for part (c)    2 points
+(d)(i)   For drawing an appropriate line of best fit that approximates the data                                   1 point
+         Example Response
+
+
+
+
+                                                                                                     © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(d)(ii) For calculating a value for the slope of the line using two points on the best-fit line                1 point
+
+        Scoring Note: Using data points that fall on the best-fit line is acceptable.
+
+        Example Response
+
+                  9 m 2 s 2 − 4.5 m 2 s 2
+        slope =
+                     0.5kg − 0.25kg
+
+        For using the correct relationship between the slope of the best-fit line and the value of b           1 point
+
+        Example Response
+
+                  g
+        slope =
+                  b
+
+        For a calculated value of b that is 0.45 kg m ≤ b ≤ 0.75 kg m                                          1 point
+
+        Example Response
+
+        b = 0.544 kg m
+
+        Example Solution
+
+        mg − bv 2 0
+                 =
+        bv 2 = mg
+         v2   g
+            =
+         m    b
+                  g
+        slope =
+                  b
+               g
+        b=
+             slope
+                      9.8 m s 2
+        b=
+             9 m 2 s 2 − 4.5 m 2 s 2
+               0.5 kg − 0.25 kg
+
+        b = 0.544 kg m
+
+                                                                                        Total for part (d)    4 points
+
+
+
+
+                                                                                                  © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(e)(i)   For indicating that the length of the cylinder should be graphed                                  1 point
+         For indicating that the maximum velocity of the cylinder should be graphed                        1 point
+(e)(ii) For describing how the quantities graphed are related to the conclusions of the experiment         1 point
+         Example Response
+         The slope of the length vs. maximum velocity graph can be used to determine if length affects
+         terminal velocity.
+                                                                                      Total for part (e)   3 points
+
+                                                                                  Total for question 2 15 points
+
+
+
+
+                                                                                              © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+
+Question 3: Free-Response Question                                                                       15 points
+
+(a)     For drawing and appropriately labeling the downward forces that are exerted on the rod at              1 point
+        points P and C
+
+        Scoring Note: Labeling the downward force of tension as Fblock , 3mg , or similar, may earn
+        this point.
+        For drawing and appropriately labeling a leftward force that is exerted on the rod at Point Q          1 point
+        For drawing and appropriately labeling a force that is directed up and to the right that is            1 point
+        exerted on the rod at the pivot, and no extraneous forces are present
+        Example Response
+
+
+
+
+        Scoring Note: Examples of appropriate labels for the force due to gravity include: FG , Fg ,
+         Fgrav , W , mg , Mg , “grav force,” “ F Earth on block,” “ F on block by Earth,” FEarth on block ,
+         FE,Block . The labels G and g are not appropriate labels for the force due to gravity.
+
+
+        Scoring Note: Examples of appropriate labels for the force from the pivot include: Fp ,
+         Fpivot , Fn , FN , N , “normal force,” “pivot force.”
+
+        Scoring Note: Examples of appropriate labels for the tension force include Ft , FT , T ,
+
+         Fstring , and “Force from string.”
+                                                                                        Total for part (a)    3 points
+
+
+
+
+                                                                                                  © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(b)     For indicating that the net torque exerted on the rod is equal to zero                               1 point
+        Example Response
+
+        Στ =0
+
+        For a correct expression for the torque exerted on the rod by the hanging mass                       1 point
+        Example Response
+
+        3mg sin θ   ( 38L )
+        For a correct expression for the torque exerted on the rod by the gravitational force                1 point
+        Example Response
+
+        mg sin θ   ( 48L )
+        For a correct expression for the torque exerted on the rod by the string                             1 point
+        Example Responses
+
+         FT sin ( 90° − θ )   ( 6L8 ) OR F cosθ ( 6L8 )
+                                            T
+
+
+        Example Solution
+
+        Στ =0
+        3mg sin θ   ( 38L ) + mg sinθ ( 48L ) − F sin(90° − θ ) ( 68L ) 0
+                                                T                      =
+
+
+        3mg sin θ   ( 38L ) + mg sinθ ( 48L ) − F cosθ ( 68L ) 0
+                                                T             =
+
+
+
+        ( 89 ) mg sinθ + ( 84 ) mg sinθ ( 86 ) F
+                                       =        Tcos θ
+
+
+        13mg sin θ = 6 FT cos θ
+
+                13
+         FT =      mg tan θ
+                 6
+
+        Scoring Note: A maximum of three points may be earned if the trigonometric functions
+        ( sin and cos ) are reversed for all three torque terms.
+
+                                                                                      Total for part (b)    4 points
+
+
+
+
+                                                                                                © 2024 College Board
+  AP® Physics C: Mechanics 2024 Scoring Guidelines
+  (c)      For indicating that the torque exerted on the rod by the string is always the same                   1 point
+           For stating that as the angle between the string and the rod increases, the force exerted on the     1 point
+           rod by the string decreases
+
+           Example Response
+
+           Because the torque exerted on the rod by the string is always the same, as the angle between
+           the string and the rod increases, the tension FT , new must decrease.
+                                                                                          Total for part (c)   2 points
+  (d)(i)   For indicating the total mass is the sum of differentiable masses along the length of the rod        1 point
+           Example Response
+
+           M = ∫ dm
+
+           For correctly writing dm in terms of x                                                               1 point
+           Example Response
+                  1.2
+           M
+           =     ∫0 ( 6 + 10 x ) dx
+           For a correct numeric answer with correct units                                                      1 point
+           Example Response
+           M = 14.4 kg
+
+           Example Solution
+
+           M = ∫ dm
+           M = ∫ λ dx
+                  1.2
+           M
+           =     ∫0 ( 6 + 10 x ) dx
+                                1.2 m
+                   10 x 2 
+           =  6x +
+           M
+                     2  0
+                     10 kg m 2 (1.2 m )2
+=M 6 kg m (1.2 m ) +
+                             2
+ M = 14.4 kg
+
+
+
+
+                                                                                                   © 2024 College Board
+AP® Physics C: Mechanics 2024 Scoring Guidelines
+(d)(ii) For a correct substitution of λ into an integral expression of rotational inertia                   1 point
+        Example Response
+             1.2 m
+
+                ∫0 ( A + Bx) x dx
+                                   2
+   =I
+
+
+        For a correct integration                                                                           1 point
+        Example Response
+                                   1.2 m
+        Ax3 Bx 4 
+    =I     +
+        3    4  0
+
+        For a correct numeric answer with correct units                                                     1 point
+        Example Response
+
+   =I 8.64 kg ⋅ m 2
+
+        Example Solution
+
+         I = ∫ r 2 dm=dm λ dr
+                         =    and r x
+                1.2 m
+         I =∫           λ x 2 dx
+              0
+              1.2 m
+  =I         ∫0         ( A + Bx) x 2 dx
+                                   1.2 m
+        Ax3 Bx 4 
+    =I     +
+        3    4  0
+
+             ( 6.0 kg m )(1.2 m )3           (10.0 kg m 2 ) (1.2 m )4
+=I                                         +
+                3                                       4
+   =I 8.64 kg ⋅ m 2
+
+                                                                                      Total for part (d)   6 points
+                                                                                   Total for question 3 15 points
+
+
+
+
+                                                                                                © 2024 College Board
+

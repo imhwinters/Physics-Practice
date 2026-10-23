@@ -1,0 +1,3055 @@
+[
+  {
+    "id": "os-ap2e-m-fs-id1862594",
+    "unit": 1,
+    "units": [
+      1
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 2,
+    "number": 1,
+    "topic": "Displacement",
+    "prompt": "Which of the following statements comparing position, distance traveled, and displacement is correct?",
+    "options": [
+      "An object may record a distance traveled of zero while recording a non-zero displacement.",
+      "An object may record a non-zero distance traveled while recording a displacement of zero.",
+      "An object may record a non-zero distance traveled while maintaining a position of zero.",
+      "An object may record a non-zero displacement while maintaining a position of zero."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/2-test-prep-for-ap-r-courses#fs-id1862594",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-2#fs-id1862594-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2378722",
+    "unit": 1,
+    "units": [
+      1
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 2,
+    "number": 7,
+    "topic": "Falling Objects",
+    "prompt": "Observing a spacecraft land on a distant asteroid, scientists notice that the craft is falling at a rate of 5 m/s. When it is 100 m closer to the surface of the asteroid, the craft…",
+    "options": [
+      "0 m/s 2",
+      "0.03 m/s 2",
+      "0.20 m/s 2",
+      "0.65 m/s 2",
+      "33 m/s 2"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/2-test-prep-for-ap-r-courses#fs-id2378722",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-2#fs-id2378722-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1421044",
+    "unit": 1,
+    "units": [
+      1
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 3,
+    "number": 1,
+    "topic": "Kinematics in Two Dimensions: An Introduction",
+    "prompt": "A ball is thrown at an angle of 45 degrees above the horizontal. Which of the following best describes the acceleration of the ball from the instant after it leaves the thrower's hand…",
+    "options": [
+      "Always in the same direction as the motion, initially positive and gradually dropping to zero by the time it hits the ground",
+      "Initially positive in the upward direction, then zero at maximum height, then negative from there until it hits the ground",
+      "Always in the opposite direction as the motion, initially positive and gradually dropping to zero by the time it hits the ground",
+      "Always in the downward direction with the same constant value"
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/3-test-prep-for-ap-r-courses#fs-id1421044",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-3#fs-id1421044-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1900456",
+    "unit": 2,
+    "units": [
+      2
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 4,
+    "number": 7,
+    "topic": "Newton’s Third Law of Motion: Symmetry in Forces",
+    "prompt": "Which of the following is true?",
+    "options": [
+      "Earth exerts a force due to gravity on your body, and your body exerts a smaller force on the Earth, because your mass is smaller than the mass of the Earth.",
+      "The Moon orbits the Earth because the Earth exerts a force on the Moon and the Moon exerts a force equal in magnitude and direction on the Earth.",
+      "A rocket taking off exerts a force on the Earth equal to the force the Earth exerts on the rocket.",
+      "An airplane cruising at a constant speed is not affected by gravity."
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/4-test-prep-for-ap-r-courses#fs-id1900456",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-4#fs-id1900456-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1349141",
+    "unit": 2,
+    "units": [
+      2
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 4,
+    "number": 19,
+    "topic": "Normal, Tension, and Other Examples of Forces",
+    "prompt": "Two teams are engaging in a tug–of-war. The rope suddenly snaps. Which statement is true about the forces involved?",
+    "options": [
+      "The forces exerted by the two teams are no longer equal; the teams will accelerate in opposite directions as a result.",
+      "The forces exerted by the players are no longer balanced by the force of tension in the rope; the teams will accelerate in opposite directions as a result.",
+      "The force of gravity balances the forces exerted by the players; the teams will fall as a result",
+      "The force of tension in the rope is transferred to the players; the teams will accelerate in opposite directions as a result."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/4-test-prep-for-ap-r-courses#fs-id1349141",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-4#fs-id1349141-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1642540",
+    "unit": 2,
+    "units": [
+      2
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 4,
+    "number": 23,
+    "topic": "Problem-Solving Strategies",
+    "prompt": "A toboggan with two riders has a total mass of 85.0 kg. A third person is pushing with a force of 42.5 N in the direction of motion on a toboggan moving on a sloped surface at the top of…",
+    "options": [
+      "An arrow of magnitude 10.5 N points down the slope of the hill.",
+      "An arrow of magnitude 833 N points straight down.",
+      "An arrow of magnitude 833 N points perpendicular to the slope of the hill.",
+      "An arrow of magnitude 73.5 N points down the slope of the hill."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/4-test-prep-for-ap-r-courses#fs-id1642540",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-4#fs-id1642540-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1795701",
+    "unit": 2,
+    "units": [
+      2
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 4,
+    "number": 25,
+    "topic": "Problem-Solving Strategies",
+    "prompt": "Which statement is true about drawing free-body diagrams?",
+    "options": [
+      "Drawing a free-body diagram should be the last step in solving a problem about forces.",
+      "Drawing a free-body diagram helps you compare forces quantitatively.",
+      "The forces in a free-body diagram should always balance.",
+      "Drawing a free-body diagram can help you determine the net force."
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/4-test-prep-for-ap-r-courses#fs-id1795701",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-4#fs-id1795701-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1342174",
+    "unit": 2,
+    "units": [
+      2
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 4,
+    "number": 29,
+    "topic": "Extended Topic: The Four Basic Forces—An Introduction",
+    "prompt": "Which phenomenon correctly describes the direction and magnitude of normal forces?",
+    "options": [
+      "electromagnetic attraction",
+      "electromagnetic repulsion",
+      "gravitational attraction",
+      "gravitational repulsion"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/4-test-prep-for-ap-r-courses#fs-id1342174",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-4#fs-id1342174-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1447352",
+    "unit": 2,
+    "units": [
+      2
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 4,
+    "number": 31,
+    "topic": "Extended Topic: The Four Basic Forces—An Introduction",
+    "prompt": "Which of the basic forces best explains tension in a rope being pulled between two people? Is the acting force causing attraction or repulsion in this instance?",
+    "options": [
+      "gravity; attraction",
+      "electromagnetic; attraction",
+      "weak and strong nuclear; attraction",
+      "weak and strong nuclear; repulsion"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/4-test-prep-for-ap-r-courses#fs-id1447352",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-4#fs-id1447352-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1656257",
+    "unit": 2,
+    "units": [
+      2
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 4,
+    "number": 33,
+    "topic": "Extended Topic: The Four Basic Forces—An Introduction",
+    "prompt": "The gravitational force is the weakest of the four basic forces. In which case can the electromagnetic, strong, and weak forces be ignored because the gravitational force is so strongly…",
+    "options": [
+      "a person jumping on a trampoline",
+      "a rocket blasting off from Earth",
+      "a log rolling down a hill",
+      "all of the above"
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/4-test-prep-for-ap-r-courses#fs-id1656257",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-4#fs-id1656257-solution"
+  },
+  {
+    "id": "os-ap2e-m-import-auto-id0000007",
+    "unit": 2,
+    "units": [
+      2
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 5,
+    "number": 1,
+    "topic": "Friction",
+    "prompt": "When a force of 20 N is applied to a stationary box weighing 40 N, the box does not move. This means the coefficient of static friction",
+    "options": [
+      "is equal to 0.5.",
+      "is greater than 0.5.",
+      "is less than 0.5.",
+      "cannot be determined."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/5-test-prep-for-ap-r-courses#import-auto-id0000007",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-5#import-auto-id0000007-solution"
+  },
+  {
+    "id": "os-ap2e-m-import-auto-id0000018",
+    "unit": 2,
+    "units": [
+      2
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 5,
+    "number": 3,
+    "topic": "Friction",
+    "prompt": "A block is given a short push and then slides with constant friction across a horizontal floor. Which statement best explains the direction of the force that friction applies on the…",
+    "options": [
+      "Friction will be in the same direction as the block's motion because molecular interactions between the block and the floor will deform the block in the direction of motion.",
+      "Friction will be in the same direction as the block's motion because thermal energy generated at the interface between the block and the floor adds kinetic energy to the block.",
+      "Friction will be in the opposite direction of the block's motion because molecular interactions between the block and the floor will deform the block in the opposite direction of motion.",
+      "Friction will be in the opposite direction of the block's motion because thermal energy generated at the interface between the block and the floor converts some of the block's kinetic energy to potential energy."
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/5-test-prep-for-ap-r-courses#import-auto-id0000018",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-5#import-auto-id0000018-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1372020",
+    "unit": 2,
+    "units": [
+      2
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 6,
+    "number": 1,
+    "topic": "Newton’s Universal Law of Gravitation",
+    "prompt": "Jupiter has a mass approximately 300 times greater than Earth's and a radius about 11 times greater. How will the gravitational acceleration at the surface of Jupiter compare to that at…",
+    "options": [
+      "Greater",
+      "Less",
+      "About the same",
+      "Not enough information"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/6-test-prep-for-ap-r-courses#fs-id1372020",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-6#fs-id1372020-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1110266",
+    "unit": 2,
+    "units": [
+      2
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 6,
+    "number": 3,
+    "topic": "Newton’s Universal Law of Gravitation",
+    "prompt": "In the formula g = G M r 2 , what does G represent?",
+    "options": [
+      "The acceleration due to gravity",
+      "A gravitational constant that is the same everywhere in the universe",
+      "A gravitational constant that is inversely proportional to the radius",
+      "The factor by which you multiply the inertial mass to obtain the gravitational mass"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/6-test-prep-for-ap-r-courses#fs-id1110266",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-6#fs-id1110266-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1841502",
+    "unit": 2,
+    "units": [
+      2
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 6,
+    "number": 5,
+    "topic": "Newton’s Universal Law of Gravitation",
+    "prompt": "A recently discovered planet has a mass twice as great as Earth's and a radius twice as large as Earth's. What will be the approximate size of its gravitational field?",
+    "options": [
+      "19 m/s 2",
+      "4.9 m/s 2",
+      "2.5 m/s 2",
+      "9.8 m/s 2"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/6-test-prep-for-ap-r-courses#fs-id1841502",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-6#fs-id1841502-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2527597",
+    "unit": 3,
+    "units": [
+      3
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 7,
+    "number": 1,
+    "topic": "Work: The Scientific Definition",
+    "prompt": "Given Table 7.7 about how much force does the rocket engine exert on the 3.0-kg payload? Distance traveled with rocket engine firing (m) Payload final velocity (m/s) 500 310 490 300 1020…",
+    "options": [
+      "150 N",
+      "300 N",
+      "450 N",
+      "600 N"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/7-test-prep-for-ap-r-courses#fs-id2527597",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-7#fs-id2527597-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2713956",
+    "unit": 3,
+    "units": [
+      3
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 7,
+    "number": 3,
+    "topic": "Work: The Scientific Definition",
+    "prompt": "Look at Figure 7.10 (c). You compress a spring by x , and then release it. Next you compress the spring by 2 x . How much more work did you do the second time than the first?",
+    "options": [
+      "Half as much",
+      "The same",
+      "Twice as much",
+      "Four times as much"
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/7-test-prep-for-ap-r-courses#fs-id2713956",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-7#fs-id2713956-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2714107",
+    "unit": 3,
+    "units": [
+      3
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 7,
+    "number": 5,
+    "topic": "Work: The Scientific Definition",
+    "prompt": "A crane is lifting construction materials from the ground to an elevation of 60 m. Over the first 10 m, the motor linearly increases the force it exerts from 0 to 10 kN. It exerts that…",
+    "options": [
+      "500 kJ",
+      "600 kJ",
+      "300 kJ",
+      "18 MJ"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/7-test-prep-for-ap-r-courses#fs-id2714107",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-7#fs-id2714107-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id3349229",
+    "unit": 3,
+    "units": [
+      3
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 7,
+    "number": 19,
+    "topic": "Gravitational Potential Energy",
+    "prompt": "A 1.0 kg baseball is flying at 10 m/s. How much kinetic energy does it have? Potential energy?",
+    "options": [
+      "10 J, 20 J",
+      "50 J, 20 J",
+      "unknown, 50 J",
+      "50 J, unknown"
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/7-test-prep-for-ap-r-courses#fs-id3349229",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-7#fs-id3349229-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2328776",
+    "unit": 3,
+    "units": [
+      3
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 7,
+    "number": 25,
+    "topic": "Conservative Forces and Potential Energy",
+    "prompt": "You are loading a toy dart gun, which has two settings, the more powerful with the spring compressed twice as far as the lower setting. If it takes 5.0 J of work to compress the dart gun…",
+    "options": [
+      "20 J",
+      "10 J",
+      "2.5 J",
+      "40 J"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/7-test-prep-for-ap-r-courses#fs-id2328776",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-7#fs-id2328776-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2987264",
+    "unit": 3,
+    "units": [
+      3
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 7,
+    "number": 27,
+    "topic": "Conservative Forces and Potential Energy",
+    "prompt": "Old-fashioned pendulum clocks are powered by masses that need to be wound back to the top of the clock about once a week to counteract energy lost due to friction and to the chimes. One…",
+    "options": [
+      "51 J",
+      "76 J",
+      "127 J",
+      "178 J"
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/7-test-prep-for-ap-r-courses#fs-id2987264",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-7#fs-id2987264-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1759232",
+    "unit": 3,
+    "units": [
+      3
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 7,
+    "number": 29,
+    "topic": "Conservative Forces and Potential Energy",
+    "prompt": "Old-fashioned pocket watches needed to be wound daily so they wouldn’t run down and lose time, due to the friction in the internal components. This required a large number of turns of…",
+    "options": [
+      "A small mass raised a long distance",
+      "A large mass raised a short distance",
+      "A weak spring deformed a long way",
+      "A strong spring deformed a short way"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/7-test-prep-for-ap-r-courses#fs-id1759232",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-7#fs-id1759232-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1332485",
+    "unit": 3,
+    "units": [
+      3
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 7,
+    "number": 31,
+    "topic": "Nonconservative Forces",
+    "prompt": "You are in a room in a basement with a smooth concrete floor (friction force equals 40 N) and a nice rug (friction force equals 55 N) that is 3 m by 4 m. However, you have to push a very…",
+    "options": [
+      "Across the rug is 275 J extra",
+      "Around the floor is 5 J extra",
+      "Across the rug is 5 J extra",
+      "Around the floor is 280 J extra"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/7-test-prep-for-ap-r-courses#fs-id1332485",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-7#fs-id1332485-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2713007",
+    "unit": 3,
+    "units": [
+      3
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 7,
+    "number": 33,
+    "topic": "Conservation of Energy",
+    "prompt": "You do 30 J of work to load a toy dart gun. However, the dart is 10 cm long and feels a frictional force of 10 N while going through the dart gun’s barrel. What is the kinetic energy of…",
+    "options": [
+      "30 J",
+      "29 J",
+      "28 J",
+      "27 J"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/7-test-prep-for-ap-r-courses#fs-id2713007",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-7#fs-id2713007-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1422967",
+    "unit": 3,
+    "units": [
+      3
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 7,
+    "number": 35,
+    "topic": "Conservation of Energy",
+    "prompt": "A child has two red wagons, with the rear one tied to the front by a stretchy rope (a spring). If the child pulls on the front wagon, the ____ increases.",
+    "options": [
+      "kinetic energy of the wagons",
+      "potential energy stored in the spring",
+      "both A and B",
+      "not enough information"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/7-test-prep-for-ap-r-courses#fs-id1422967",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-7#fs-id1422967-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1640289",
+    "unit": 3,
+    "units": [
+      3
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 7,
+    "number": 39,
+    "topic": "Conservation of Energy",
+    "prompt": "A 5.0-kg rock falls off of a 10 m cliff. If air resistance exerts an average force of 10 N, what is the kinetic energy when the rock hits the ground?",
+    "options": [
+      "400 J",
+      "12.6 m/s",
+      "100 J",
+      "500 J"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/7-test-prep-for-ap-r-courses#fs-id1640289",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-7#fs-id1640289-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id772532",
+    "unit": 3,
+    "units": [
+      3
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 7,
+    "number": 41,
+    "topic": "Conservation of Energy",
+    "prompt": "Before railroads were invented, goods often traveled along canals, with mules pulling barges from the bank. If a mule is exerting a 1200 N force for 10 km, and the rope connecting the…",
+    "options": [
+      "12 MJ",
+      "11 MJ",
+      "4.1 MJ",
+      "6 MJ"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/7-test-prep-for-ap-r-courses#fs-id772532",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-7#fs-id772532-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1022532",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 1,
+    "topic": "Linear Momentum and Force",
+    "prompt": "A boy standing on a frictionless ice rink is initially at rest. He throws a snowball in the + x -direction, and it travels on a ballistic trajectory, hitting the ground some distance…",
+    "options": [
+      "He feels an upward force to compensate for the downward trajectory of the snowball.",
+      "He feels a backward force exerted by the snowball he is throwing.",
+      "He feels no net force.",
+      "He feels a forward force, the same force that propels the snowball."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id1022532",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id1022532-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2018730",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 3,
+    "topic": "Impulse",
+    "prompt": "A 1.0-kg ball of putty is released from rest and falls vertically 1.5 m until it strikes a hard floor, where it comes to rest in a 0.045-s time interval. What is the magnitude and…",
+    "options": [
+      "33 N, up",
+      "120 N, up",
+      "120 N, down",
+      "240 N, down"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id2018730",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id2018730-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id3561525",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 5,
+    "topic": "Impulse",
+    "prompt": "A 2.4-kg ceramic bowl falls to the floor. During the 0.018-s impact, the bowl experiences an average force of 750 N from the floor. The bowl is at rest after the impact. From what…",
+    "options": [
+      "1.6 m",
+      "2.8 m",
+      "3.2 m",
+      "5.6 m"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id3561525",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id3561525-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2498125",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 9,
+    "topic": "Impulse",
+    "prompt": "A test car is driving toward a solid crash-test barrier with a speed of 45 mi/h. Two seconds prior to impact, the car begins to brake, but it is still moving when it hits the wall. After…",
+    "options": [
+      "The (negative) acceleration of the car before it hits the wall and the distance the car travels while braking.",
+      "The (negative) acceleration of the car before it hits the wall and the velocity of the car just before impact.",
+      "The velocity of the car just before impact and the duration of the collision with the wall.",
+      "The duration of the collision with the wall and the distance the car travels while braking."
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id2498125",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id2498125-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id3187844",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 11,
+    "topic": "Impulse",
+    "prompt": "A 22-g puck hits the wall of an air hockey table perpendicular to the wall with an initial speed of 14 m/s.The puck is in contact with the wall for 0.0055 s, and it rebounds from the…",
+    "options": [
+      "0.308 N",
+      "0.616 N",
+      "56 N",
+      "112 N"
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id3187844",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id3187844-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id3327236",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 13,
+    "topic": "Impulse",
+    "prompt": "Figure 8.15 This is a graph showing the force exerted by a rigid wall versus time. The graph in Figure 8.15 represents the force exerted on a particle during a collision. What is the…",
+    "options": [
+      "1.2 kg • m/s",
+      "2.4 kg • m/s",
+      "3.6 kg • m/s",
+      "4.8 kg • m/s"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id3327236",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id3327236-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1422695",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 15,
+    "topic": "Conservation of Momentum",
+    "prompt": "Which of the following is an example of an open system?",
+    "options": [
+      "Two air cars colliding on a track elastically.",
+      "Two air cars colliding on a track and sticking together.",
+      "A bullet being fired into a hanging wooden block and becoming embedded in the block, with the system then acting as a ballistic pendulum.",
+      "A bullet being fired into a hillside and becoming buried in the earth."
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id1422695",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id1422695-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1468748",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 17,
+    "topic": "Conservation of Momentum",
+    "prompt": "A student sets up an experiment to measure the momentum of a system of two air cars, A and B, of equal mass, moving on a linear, frictionless track. Before the collision, car A has a…",
+    "options": [
+      "It will be greater before the collision.",
+      "It will be equal before and after the collision.",
+      "It will be greater after the collision.",
+      "The answer depends on whether the collision is elastic or inelastic."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id1468748",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id1468748-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1943510",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 19,
+    "topic": "Conservation of Momentum",
+    "prompt": "Cart A is moving with an initial velocity + v (in the positive direction) toward cart B, initially at rest. Both carts have equal mass and are on a frictionless surface. Which of the…",
+    "options": [
+      "+ v 2 + v 2 before, − v 2 − v 2 after",
+      "+ v 2 + v 2 before, 0 after",
+      "+ v 2 + v 2 before, + v 2 + v 2 after",
+      "0 before, 0 after"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id1943510",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id1943510-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2208648",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 21,
+    "topic": "Elastic Collisions in One Dimension",
+    "prompt": "Two cars (A and B) of mass 1.5 kg collide. Car A is initially moving at 12 m/s, and car B is initially moving in the same direction with a speed of 6 m/s. The two cars are moving along a…",
+    "options": [
+      "−27 kg • m/s",
+      "zero",
+      "+27 kg • m/s",
+      "It depends on whether the collision is elastic or inelastic."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id2208648",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id2208648-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1478642",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 23,
+    "topic": "Elastic Collisions in One Dimension",
+    "prompt": "Puck A (200 g) slides across a frictionless surface to collide with puck B (800 g), initially at rest. The velocity of each puck is measured during the experiment as follows: Time…",
+    "options": [
+      "+1.6 kg•m/s",
+      "+0.8 kg•m/s",
+      "0",
+      "−1.6 kg•m/s"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id1478642",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id1478642-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2432045",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 25,
+    "topic": "Elastic Collisions in One Dimension",
+    "prompt": "Two cars (A and B) of equal mass have an elastic collision. Prior to the collision, car A is moving at 15 m/s in the + x -direction, and car B is moving at 10 m/s in the – x -direction.…",
+    "options": [
+      "same as the original 15 m/s speed, opposite direction",
+      "equal to car B’s velocity prior to the collision",
+      "equal to the average of the two velocities, in its original direction",
+      "equal to the average of the two velocities, in the opposite direction"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id2432045",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id2432045-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1683789",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 27,
+    "topic": "Elastic Collisions in One Dimension",
+    "prompt": "A rubber ball is dropped from rest at a fixed height. It bounces off a hard floor and rebounds upward, but it only reaches 90% of its original fixed height. What is the best way to…",
+    "options": [
+      "Energy was required to deform the ball’s shape during the collision with the floor.",
+      "Energy was lost due to work done by the ball pushing on the floor during the collision.",
+      "Energy was lost due to friction between the ball and the floor.",
+      "Energy was lost due to the work done by gravity during the motion."
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id1683789",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id1683789-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1442938",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 29,
+    "topic": "Elastic Collisions in One Dimension",
+    "prompt": "Two objects, A and B, have equal mass. Prior to the collision, mass A is moving 10 m/s in the + x -direction, and mass B is moving 4 m/s in the + x -direction. Which of the following…",
+    "options": [
+      "After the collision, mass A is at rest, and mass B moves 14 m/s in the + x -direction.",
+      "After the collision, mass A moves 4 m/s in the – x -direction, and mass B moves 18 m/s in the + x -direction.",
+      "After the collision, the two masses stick together and move 7 m/s in the + x -direction.",
+      "After the collision, mass A moves 4 m/s in the + x -direction, and mass B moves 10 m/s in the + x -direction."
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id1442938",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id1442938-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1487248",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 31,
+    "topic": "Elastic Collisions in One Dimension",
+    "prompt": "Two objects (A and B) of equal mass collide elastically. Mass A is initially moving 5.0 m/s in the + x -direction prior to the collision. Mass B is initially moving 3.0 m/s in the – x…",
+    "options": [
+      "3.0 m/s in the + x -direction",
+      "5.0 m/s in the + x -direction",
+      "3.0 m/s in the – x -direction",
+      "5.0 m/s in the – x -direction"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id1487248",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id1487248-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2332080",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 33,
+    "topic": "Elastic Collisions in One Dimension",
+    "prompt": "Two objects of equal mass collide. Object A is initially moving in the + x -direction with a speed of 12 m/s, and object B is initially at rest. After the collision, object A is at rest,…",
+    "options": [
+      "Both momentum and kinetic energy are conserved.",
+      "Momentum is conserved, but kinetic energy is not conserved.",
+      "Neither momentum nor kinetic energy is conserved.",
+      "More information is needed in order to determine which is conserved."
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id2332080",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id2332080-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1862350",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 35,
+    "topic": "Elastic Collisions in One Dimension",
+    "prompt": "Which of the following statements is true about an inelastic collision?",
+    "options": [
+      "Momentum is conserved, and kinetic energy is conserved.",
+      "Momentum is conserved, and kinetic energy is not conserved.",
+      "Momentum is not conserved, and kinetic energy is conserved.",
+      "Momentum is not conserved, and kinetic energy is not conserved."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id1862350",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id1862350-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1165124579546",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 37,
+    "topic": "Elastic Collisions in One Dimension",
+    "prompt": "This figure shows the positions of two colliding objects measured before, during, and after a collision. Mass A is 1.0 kg. Mass B is 3.0 kg. Which of the following statements is true?",
+    "options": [
+      "This is an elastic collision, with a total momentum of 0 kg • m/s.",
+      "This is an elastic collision, with a total momentum of 1.67 kg • m/s.",
+      "This is an inelastic collision, with a total momentum of 0 kg • m/s.",
+      "This is an inelastic collision, with a total momentum of 1.67 kg • m/s."
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id1165124579546",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id1165124579546-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1741049",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 39,
+    "topic": "Elastic Collisions in One Dimension",
+    "prompt": "Mass A (1.0 kg) slides across a frictionless surface with a velocity of 8 m/s in the positive direction. Mass B (3.0 kg) is initially at rest. The two objects collide and stick together.…",
+    "options": [
+      "There will be no change in the center-of-mass velocity.",
+      "The center-of-mass velocity will decrease by 2 m/s.",
+      "The center-of-mass velocity will decrease by 6 m/s.",
+      "The center-of-mass velocity will decrease by 8 m/s."
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id1741049",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id1741049-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2060437",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 41,
+    "topic": "Inelastic Collisions in One Dimension",
+    "prompt": "Mass A (2.0 kg) has an initial velocity of 4 m/s in the + x -direction. Mass B (2.0 kg) has an initial velocity of 5 m/s in the – x -direction. If the two masses have an elastic…",
+    "options": [
+      "Both will move 0.5 m/s in the – x -direction.",
+      "Mass A will stop; mass B will move 9 m/s in the + x -direction.",
+      "Mass B will stop; mass A will move 9 m/s in the – x -direction.",
+      "Mass A will move 5 m/s in the – x -direction; mass B will move 4 m/s in the + x -direction."
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id2060437",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id2060437-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1414077",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 45,
+    "topic": "Inelastic Collisions in One Dimension",
+    "prompt": "Mass A slides across a rough table with an initial velocity of 12 m/s in the + x -direction. By the time mass A collides with mass B (a stationary object with equal mass), mass A has…",
+    "options": [
+      "Momentum is conserved during the collision, but it is not conserved during the motion before and after the collision.",
+      "Momentum is not conserved at any time during this analysis.",
+      "Momentum is conserved at all times during this analysis.",
+      "Momentum is not conserved during the collision, but it is conserved during the motion before and after the collision."
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id1414077",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id1414077-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2061215",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 47,
+    "topic": "Inelastic Collisions in One Dimension",
+    "prompt": "Mass A is initially moving with a velocity of 24 m/s in the + x -direction. Mass B is twice as massive as mass A and is initially at rest. The two objects experience a totally inelastic…",
+    "options": [
+      "A is not moving; B is moving 24 m/s in the + x -direction.",
+      "Neither A nor B is moving.",
+      "A is moving 24 m/s in the – x -direction. B is not moving.",
+      "Both A and B are moving together 8 m/s in the + x -direction."
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id2061215",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id2061215-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1538341",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 49,
+    "topic": "Inelastic Collisions in One Dimension",
+    "prompt": "Mass A is initially moving with a velocity of 2 m/s in the + x -direction. Mass B is initially moving with a velocity of 6 m/s in the – x -direction. The two objects have equal masses.…",
+    "options": [
+      "6 m/s in the + x -direction",
+      "4 m/s in the + x -direction",
+      "zero",
+      "4 m/s in the – x -direction"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id1538341",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id1538341-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2039335",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 8,
+    "number": 51,
+    "topic": "Collisions of Point Masses in Two Dimensions",
+    "prompt": "Two cars of equal mass approach an intersection. Car A is moving east at a speed of 45 m/s. Car B is moving south at a speed of 35 m/s. They collide inelastically and stick together…",
+    "options": [
+      "The center-of-mass velocity will decrease after the collision as a result of lost energy (but not drop to zero).",
+      "The center-of-mass velocity will remain the same after the collision since momentum is conserved.",
+      "The center-of-mass velocity will drop to zero since the two objects stick together.",
+      "The magnitude of the center-of-mass velocity will remain the same, but the direction of the velocity will change."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/8-test-prep-for-ap-r-courses#fs-id2039335",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-8#fs-id2039335-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1330781",
+    "unit": 5,
+    "units": [
+      5
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 9,
+    "number": 1,
+    "topic": "The Second Condition for Equilibrium",
+    "prompt": "Which of the following is not an example of an object undergoing a torque?",
+    "options": [
+      "A car is rounding a bend at a constant speed.",
+      "A merry-go-round increases from rest to a constant rotational speed.",
+      "A pendulum swings back and forth.",
+      "A bowling ball rolls down a bowling alley."
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/9-test-prep-for-ap-r-courses#fs-id1330781",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-9#fs-id1330781-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1721000",
+    "unit": 5,
+    "units": [
+      5
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 10,
+    "number": 1,
+    "topic": "Dynamics of Rotational Motion: Rotational Inertia",
+    "prompt": "A piece of wood can be carved by spinning it on a motorized lathe and holding a sharp chisel to the edge of the wood as it spins. How does the angular velocity of a piece of wood with a…",
+    "options": [
+      "It increases by 10 N•m multiplied by the moment of inertia of the wood.",
+      "It decreases by 10 N•m divided by the moment of inertia of the wood-and-lathe system.",
+      "It decreases by 10 N•m multiplied by the moment of inertia of the wood.",
+      "It decreases by 10 m/s 2 ."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/10-test-prep-for-ap-r-courses#fs-id1721000",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-10#fs-id1721000-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1500072",
+    "unit": 5,
+    "units": [
+      5
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 10,
+    "number": 3,
+    "topic": "Dynamics of Rotational Motion: Rotational Inertia",
+    "prompt": "A lever is placed on a fulcrum. A rock is placed on the left end of the lever and a downward (clockwise) force is applied to the right end of the lever. What measurements would be most…",
+    "options": [
+      "the angular velocity and mass of the rock",
+      "the angular velocity and mass of the rock, and the radius of the lever",
+      "the velocity of the force, the radius of the lever, and the mass of the rock",
+      "the mass of the rock, the length of the lever on both sides of the fulcrum, and the force applied on the right side of the lever"
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/10-test-prep-for-ap-r-courses#fs-id1500072",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-10#fs-id1500072-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2004322",
+    "unit": 6,
+    "units": [
+      6
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 10,
+    "number": 7,
+    "topic": "Rotational Kinetic Energy: Work and Energy Revisited",
+    "prompt": "Gear A, which turns clockwise, meshes with gear B, which turns counterclockwise. When more force is applied through gear A, torque is created. How does the angular velocity of gear B…",
+    "options": [
+      "It increases in magnitude.",
+      "It decreases in magnitude.",
+      "It changes direction.",
+      "It stays the same."
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/10-test-prep-for-ap-r-courses#fs-id2004322",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-10#fs-id2004322-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1543406",
+    "unit": 6,
+    "units": [
+      6
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 10,
+    "number": 9,
+    "topic": "Rotational Kinetic Energy: Work and Energy Revisited",
+    "prompt": "Which measure would not be useful to help you determine the change in angular velocity when the torque on a fishing reel is increased?",
+    "options": [
+      "the radius of the reel",
+      "the amount of line that unspools",
+      "the angular momentum of the fishing line",
+      "the time it takes the line to unspool"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/10-test-prep-for-ap-r-courses#fs-id1543406",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-10#fs-id1543406-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1520916",
+    "unit": 6,
+    "units": [
+      6
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 10,
+    "number": 11,
+    "topic": "Angular Momentum and Its Conservation",
+    "prompt": "Which rotational system would be best to use as a model to measure how angular momentum changes when forces on the system are changed?",
+    "options": [
+      "a fishing reel",
+      "a planet and its moon",
+      "a figure skater spinning",
+      "a person's lower leg"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/10-test-prep-for-ap-r-courses#fs-id1520916",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-10#fs-id1520916-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1545671",
+    "unit": 6,
+    "units": [
+      6
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 10,
+    "number": 13,
+    "topic": "Angular Momentum and Its Conservation",
+    "prompt": "Which torque applied to a disk with radius 7.0 cm for 3.5 s will produce an angular momentum of 25 N•m•s?",
+    "options": [
+      "7.1 N•m",
+      "357.1 N•m",
+      "3.6 N•m",
+      "612.5 N•m"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/10-test-prep-for-ap-r-courses#fs-id1545671",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-10#fs-id1545671-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1597661",
+    "unit": 6,
+    "units": [
+      6
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 10,
+    "number": 15,
+    "topic": "Angular Momentum and Its Conservation",
+    "prompt": "Figure 10.40 A curved arrow lies at the side of a gray disk. There is a point at the center of the disk, and around the point there is a dashed circle. There is a point labeled “Child”…",
+    "options": [
+      "The child moves toward the center of the platform, increasing the total angular momentum of the system.",
+      "The child moves toward the center of the platform, decreasing the rotational inertia of the system.",
+      "The child moves away from the center of the platform, increasing the total angular momentum of the system.",
+      "The child moves away from the center of the platform, decreasing the rotational inertia of the system."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/10-test-prep-for-ap-r-courses#fs-id1597661",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-10#fs-id1597661-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1445572",
+    "unit": 6,
+    "units": [
+      6
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 10,
+    "number": 17,
+    "topic": "Angular Momentum and Its Conservation",
+    "prompt": "A hamster sits 0.10 m from the center of a lazy Susan of negligible mass. The wheel spins with a frequency of 1.0 rev/s. How will the frequency of the lazy Susan change if the hamster…",
+    "options": [
+      "It will speed up to 2.0 rev/s.",
+      "It will speed up to 9.0 rev/s.",
+      "It will slow to 0.11 rev/s.",
+      "It will slow to 0.22 rev/s."
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/10-test-prep-for-ap-r-courses#fs-id1445572",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-10#fs-id1445572-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1665126",
+    "unit": 6,
+    "units": [
+      6
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 10,
+    "number": 19,
+    "topic": "Angular Momentum and Its Conservation",
+    "prompt": "Consider system A, consisting of two disks of radius R , with both rotating clockwise. Now consider system B, consisting of one disk of radius R rotating counterclockwise and another…",
+    "options": [
+      "A",
+      "B",
+      "They're equal.",
+      "Not enough information"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/10-test-prep-for-ap-r-courses#fs-id1665126",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-10#fs-id1665126-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1664450",
+    "unit": 6,
+    "units": [
+      6
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 10,
+    "number": 21,
+    "topic": "Collisions of Extended Bodies in Two Dimensions",
+    "prompt": "A box with a mass of 2.0 kg rests on one end of a seesaw. The seesaw is 6.0 m long, and we can assume it has negligible mass. Approximately what angular momentum will the box have if…",
+    "options": [
+      "702 kg•m 2 /s",
+      "39 kg•m 2 /s",
+      "18 kg•m 2 /s",
+      "1.2 kg•m 2 /s"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/10-test-prep-for-ap-r-courses#fs-id1664450",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-10#fs-id1664450-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2159515",
+    "unit": 6,
+    "units": [
+      6
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 10,
+    "number": 23,
+    "topic": "Collisions of Extended Bodies in Two Dimensions",
+    "prompt": "A cyclist pedals to exert a torque on the rear wheel of the bicycle. When the cyclist changes to a higher gear, the torque increases. Which of the following would be the most effective…",
+    "options": [
+      "multiplying the ratio between the two torques by the mass of the bicycle and rider",
+      "adding the two torques together, and multiplying by the time for which both torques are applied",
+      "multiplying the difference in the two torques by the time for which the new torque is applied",
+      "multiplying both torques by the mass of the bicycle and rider"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/10-test-prep-for-ap-r-courses#fs-id2159515",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-10#fs-id2159515-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1519591",
+    "unit": 6,
+    "units": [
+      6
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 10,
+    "number": 25,
+    "topic": "Collisions of Extended Bodies in Two Dimensions",
+    "prompt": "Why is it important to consider the shape of an object when determining the object's angular momentum?",
+    "options": [
+      "The shape determines the location of the center of mass. The location of the center of mass in turn determines the angular velocity of the object.",
+      "The shape helps you determine the location of the object's outer edge, where rotational velocity will be greatest.",
+      "The shape helps you determine the location of the center of rotation.",
+      "The shape determines the location of the center of mass. The location of the center of mass contributes to the object's rotational inertia, which contributes to its angular momentum."
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/10-test-prep-for-ap-r-courses#fs-id1519591",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-10#fs-id1519591-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2793783",
+    "unit": 7,
+    "units": [
+      7
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 16,
+    "number": 1,
+    "topic": "Hooke’s Law: Stress and Strain Revisited",
+    "prompt": "Which of the following represents the distance (how much ground the particle covers) moved by a particle in a simple harmonic motion in one time period? (Here, A represents the amplitude…",
+    "options": [
+      "0 cm",
+      "A cm",
+      "2 A cm",
+      "4 A cm"
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/16-test-prep-for-ap-r-courses#fs-id2793783",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-16#fs-id2793783-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1407910",
+    "unit": 7,
+    "units": [
+      7
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 16,
+    "number": 3,
+    "topic": "Hooke’s Law: Stress and Strain Revisited",
+    "prompt": "In the formula F = − k x , what does the minus sign indicate?",
+    "options": [
+      "It indicates that the restoring force is in the direction of the displacement.",
+      "It indicates that the restoring force is in the direction opposite the displacement.",
+      "It indicates that mechanical energy in the system decreases when a system undergoes oscillation.",
+      "None of the above"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/16-test-prep-for-ap-r-courses#fs-id1407910",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-16#fs-id1407910-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1170241149016",
+    "unit": 7,
+    "units": [
+      7
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 16,
+    "number": 7,
+    "topic": "Simple Harmonic Motion: A Special Periodic Motion",
+    "prompt": "A particle of mass 100 g undergoes a simple harmonic motion. The restoring force is provided by a spring with a spring constant of 40 N∙m −1 . What is the period of oscillation?",
+    "options": [
+      "10π",
+      "0.5π",
+      "0.1π",
+      "1π"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/16-test-prep-for-ap-r-courses#fs-id1170241149016",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-16#fs-id1170241149016-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1943517",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 18,
+    "number": 1,
+    "topic": "Static Electricity and Charge: Conservation of Charge",
+    "prompt": "When a glass rod is rubbed against silk, which of the following statements is true?",
+    "options": [
+      "Electrons are removed from the silk.",
+      "Electrons are removed from the rod.",
+      "Protons are removed from the silk.",
+      "Protons are removed from the rod."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/18-test-prep-for-ap-r-courses#fs-id1943517",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-18#fs-id1943517-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2013498",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 18,
+    "number": 3,
+    "topic": "Static Electricity and Charge: Conservation of Charge",
+    "prompt": "If objects X and Y attract each other, which of the following will be false?",
+    "options": [
+      "X has positive charge and Y has negative charge.",
+      "X has negative charge and Y has positive charge.",
+      "X and Y both have positive charge.",
+      "X is neutral and Y has a charge."
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/18-test-prep-for-ap-r-courses#fs-id2013498",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-18#fs-id2013498-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1306825",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 18,
+    "number": 5,
+    "topic": "Static Electricity and Charge: Conservation of Charge",
+    "prompt": "What will be the net charge on an object which attracts neutral pieces of paper but repels a negatively charged balloon?",
+    "options": [
+      "negative",
+      "positive",
+      "neutral",
+      "cannot be determined"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/18-test-prep-for-ap-r-courses#fs-id1306825",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-18#fs-id1306825-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1049967",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 18,
+    "number": 7,
+    "topic": "Static Electricity and Charge: Conservation of Charge",
+    "prompt": "In an experiment, a student runs a comb through his hair several times and brings it close to small pieces of paper. Which of the following will he observe?",
+    "options": [
+      "Pieces of paper repel the comb.",
+      "Pieces of paper are attracted to the comb.",
+      "Some pieces of paper are attracted and some repel the comb.",
+      "There is no attraction or repulsion between the pieces of paper and the comb."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/18-test-prep-for-ap-r-courses#fs-id1049967",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-18#fs-id1049967-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2066915",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 18,
+    "number": 13,
+    "topic": "Conductors and Insulators",
+    "prompt": "Figure 18.56 Balloon and sphere. When the balloon is brought closer to the sphere, there will be a redistribution of charges. What is this phenomenon called?",
+    "options": [
+      "electrostatic repulsion",
+      "conduction",
+      "polarization",
+      "none of the above"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/18-test-prep-for-ap-r-courses#fs-id2066915",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-18#fs-id2066915-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2026590",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 18,
+    "number": 15,
+    "topic": "Conductors and Insulators",
+    "prompt": "What will be the net charge on the sphere?",
+    "options": [
+      "positive",
+      "negative",
+      "zero",
+      "It can be positive or negative depending on the material."
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/18-test-prep-for-ap-r-courses#fs-id2026590",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-18#fs-id2026590-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2143149",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 18,
+    "number": 17,
+    "topic": "Conductors and Insulators",
+    "prompt": "If the balloon is moved away after grounding, what will be the net charge on the sphere?",
+    "options": [
+      "positive",
+      "negative",
+      "zero",
+      "It can be positive or negative depending on the material."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/18-test-prep-for-ap-r-courses#fs-id2143149",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-18#fs-id2143149-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1329828",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 18,
+    "number": 21,
+    "topic": "Conductors and Electric Fields in Static Equilibrium",
+    "prompt": "Figure 18.58 A sphere conductor. An electric field due to a positively charged spherical conductor is shown above. Where will the electric field be weakest?",
+    "options": [
+      "Point A",
+      "Point B",
+      "Point C",
+      "Same at all points"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/18-test-prep-for-ap-r-courses#fs-id1329828",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-18#fs-id1329828-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2543029",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 18,
+    "number": 25,
+    "topic": "Coulomb’s Law",
+    "prompt": "For questions 25–27, suppose that the electrostatics force between two charges is F . What will be the force if the distance between them is halved?",
+    "options": [
+      "4 F",
+      "2 F",
+      "F /4",
+      "F /2"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/18-test-prep-for-ap-r-courses#fs-id2543029",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-18#fs-id2543029-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1185370",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 18,
+    "number": 27,
+    "topic": "Coulomb’s Law",
+    "prompt": "Which of the following is true about the gravitational force between the particles?",
+    "options": [
+      "It will be 3.25×10 −38 F .",
+      "It will be 3.25×10 38 F .",
+      "It will be equal to F .",
+      "It is not possible to determine the gravitational force as the masses of the particles are not given."
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/18-test-prep-for-ap-r-courses#fs-id1185370",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-18#fs-id1185370-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1541667",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 18,
+    "number": 31,
+    "topic": "Electric Field: Concept of a Field Revisited",
+    "prompt": "Two particles with charges +2 q and + q are separated by a distance r . The +2 q particle has an electric field E at distance r and exerts a force F on the + q particle. Use this…",
+    "options": [
+      "E /2, F /2",
+      "E , F /2",
+      "E /2, F",
+      "E , F"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/18-test-prep-for-ap-r-courses#fs-id1541667",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-18#fs-id1541667-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1451013",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 18,
+    "number": 33,
+    "topic": "Electric Field: Concept of a Field Revisited",
+    "prompt": "The direction of the electric field of a negative charge is",
+    "options": [
+      "inward for both positive and negative charges.",
+      "outward for both positive and negative charges.",
+      "inward for other positive charges and outward for other negative charges.",
+      "outward for other positive charges and inward for other negative charges."
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/18-test-prep-for-ap-r-courses#fs-id1451013",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-18#fs-id1451013-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2204572",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 18,
+    "number": 35,
+    "topic": "Electric Field: Concept of a Field Revisited",
+    "prompt": "When a positively charged particle exerts an inward force on another particle P , what will be the charge of P ?",
+    "options": [
+      "positive",
+      "negative",
+      "neutral",
+      "cannot be determined"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/18-test-prep-for-ap-r-courses#fs-id2204572",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-18#fs-id2204572-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1532965",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 18,
+    "number": 39,
+    "topic": "Electric Field Lines: Multiple Charges",
+    "prompt": "Figure 18.62 Four objects, each with charge + q , are held fixed on a square with sides of length d , as shown in the figure. Objects X and Z are at the midpoints of the sides of the…",
+    "options": [
+      "F /7",
+      "F /5",
+      "F /3",
+      "F /2"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/18-test-prep-for-ap-r-courses#fs-id1532965",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-18#fs-id1532965-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1345616",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 1,
+    "topic": "Electric Potential Energy: Potential Difference",
+    "prompt": "An electron is placed in an electric field of 12.0 N/C to the right. What is the resulting force on the electron?",
+    "options": [
+      "1.33×10 -20 N right",
+      "1.33×10 -20 N left",
+      "1.92×10 -18 N right",
+      "1.92×10 -18 N left"
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1345616",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1345616-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2627165",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 3,
+    "topic": "Electric Potential Energy: Potential Difference",
+    "prompt": "A −5.0 C charge is being forced south by a 60 N force. What are the magnitude and direction of the local electric field?",
+    "options": [
+      "12 N/C south",
+      "12 N/C north",
+      "300 N/C south",
+      "300 N/C north"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id2627165",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id2627165-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id3080988",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 5,
+    "topic": "Electric Potential Energy: Potential Difference",
+    "prompt": "How many electrons have to be moved by a car battery containing 7.20×10 5 J at 12 V to reduce the energy by 1%?",
+    "options": [
+      "4.80×10 27",
+      "4.00×10 26",
+      "3.75×10 21",
+      "3.13×10 20"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id3080988",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id3080988-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2013214",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 7,
+    "topic": "Electric Potential Energy: Potential Difference",
+    "prompt": "A typical AAA battery can move 2000 C of charge at 1.5 V. How long will this run a 50 mW LED?",
+    "options": [
+      "1000 minutes",
+      "120,000 seconds",
+      "15 hours",
+      "250 minutes"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id2013214",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id2013214-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1830876",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 9,
+    "topic": "Electric Potential Energy: Potential Difference",
+    "prompt": "What is the internal energy of a system consisting of two point charges, one 2.0 µC, and the other −3.0 µC, placed 1.2 m away from each other?",
+    "options": [
+      "−3.8×10 -2 J",
+      "−4.5×10 -2 J",
+      "4.5×10 -2 J",
+      "3.8×10 -2 J"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1830876",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1830876-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1872138",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 11,
+    "topic": "Electric Potential Energy: Potential Difference",
+    "prompt": "A system has 2.00 µC charges at (50 cm, 0) and (−50 cm, 0) and a −1.00 µC charge at (0, 70 cm). As the y -coordinate of the −1.00 µC charge increases, the potential energy ___. As the y…",
+    "options": [
+      "increases, increases",
+      "increases, decreases",
+      "decreases, increases",
+      "decreases, decreases"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1872138",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1872138-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id3081143",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 13,
+    "topic": "Electric Potential Energy: Potential Difference",
+    "prompt": "Take a square configuration of point charges, two positive and two negative, all of the same magnitude, with like charges sharing diagonals. What will happen to the internal energy of…",
+    "options": [
+      "increase",
+      "decrease",
+      "no change",
+      "not enough information"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id3081143",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id3081143-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id3350954",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 15,
+    "topic": "Electric Potential Energy: Potential Difference",
+    "prompt": "A system has 2.00 µC charges at (50 cm, 0) and (−50 cm, 0) and a −1.00 µC charge at (0, 70 cm), with a velocity in the – y -direction. When the −1.00 µC charge is at (0, 0) the potential…",
+    "options": [
+      "maximum, maximum",
+      "maximum, minimum",
+      "minimum, maximum",
+      "minimum, minimum"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id3350954",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id3350954-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1418320",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 17,
+    "topic": "Electric Potential in a Uniform Electric Field",
+    "prompt": "A negatively charged massive particle is dropped from above the two plates in Figure 19.5 into the space between them. Which best describes the trajectory it takes?",
+    "options": [
+      "A rightward-curving parabola",
+      "A leftward-curving parabola",
+      "A rightward-curving section of a circle",
+      "A leftward-curving section of a circle"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1418320",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1418320-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1837856",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 19,
+    "topic": "Electric Potential in a Uniform Electric Field",
+    "prompt": "Two plates are lying horizontally, but stacked with one 10.0 cm above the other. If the upper plate is held at +100 V, what is the magnitude and direction of the electric field between…",
+    "options": [
+      "500 V/m, 1500 V/m, down",
+      "500 V/m, 1500 V/m, up",
+      "1500 V/m, 500 V/m, down",
+      "1500 V/m, 500 V/m, up"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1837856",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1837856-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1764873",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 21,
+    "topic": "Electric Potential in a Uniform Electric Field",
+    "prompt": "Consider three parallel conducting plates, with a space of 3.0 cm between them. The leftmost one is at a potential of +45 V, the middle one is held at ground, and the rightmost is at a…",
+    "options": [
+      "1500 V/m",
+      "2500 V/m",
+      "4000 V/m",
+      "2000 V/m"
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1764873",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1764873-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1426361",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 23,
+    "topic": "Electric Potential in a Uniform Electric Field",
+    "prompt": "A certain electric potential isoline graph has isolines every 5.0 V. If six of these lines cross a 40 cm path drawn between two points of interest, what is the (magnitude of the average)…",
+    "options": [
+      "750 V/m",
+      "150 V/m",
+      "38 V/m",
+      "75 V/m"
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1426361",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1426361-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1249875",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 25,
+    "topic": "Equipotential Lines",
+    "prompt": "How would Figure 19.10 be different with two positive charges replacing the two negative charges?",
+    "options": [
+      "The equipotential lines would have positive values.",
+      "It would actually resemble Figure 19.9 .",
+      "no change",
+      "not enough information"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1249875",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1249875-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id751083",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 27,
+    "topic": "Equipotential Lines",
+    "prompt": "As isolines of electric potential get closer together, the electric field gets stronger. What shape would a hill have as the isolines of gravitational potential get closer together?",
+    "options": [
+      "constant slope",
+      "steeper slope",
+      "shallower slope",
+      "a U-shape"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id751083",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id751083-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1892187",
+    "unit": 9,
+    "units": [
+      9
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 29,
+    "topic": "Equipotential Lines",
+    "prompt": "How much work is necessary to keep a positive point charge in orbit around a negative point charge?",
+    "options": [
+      "A lot; this system is unstable.",
+      "Just a little; the isolines are far enough apart that crossing them doesn’t take much work.",
+      "None; we’re traveling along an isoline, which requires no work.",
+      "There’s not enough information to tell."
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1892187",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1892187-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1793317",
+    "unit": 10,
+    "units": [
+      10
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 31,
+    "topic": "Capacitors and Dielectrics",
+    "prompt": "Two parallel plate capacitors are otherwise identical, except the second one has twice the distance between the plates of the first. If placed in otherwise identical circuits, how much…",
+    "options": [
+      "four times as much",
+      "twice as much",
+      "the same",
+      "half as much"
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1793317",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1793317-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1673098",
+    "unit": 10,
+    "units": [
+      10
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 33,
+    "topic": "Capacitors and Dielectrics",
+    "prompt": "A parallel plate capacitor with adjustable-size square plates is placed in a circuit. How does the charge on the capacitor change as the length of the sides of the plates is increased?",
+    "options": [
+      "it grows proportional to length 2",
+      "it grows proportional to length",
+      "it shrinks proportional to length",
+      "it shrinks proportional to length 2"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1673098",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1673098-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1622873",
+    "unit": 10,
+    "units": [
+      10
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 35,
+    "topic": "Capacitors and Dielectrics",
+    "prompt": "A student was changing one of the dimensions of a square parallel plate capacitor and measuring the resultant charge in a circuit with a battery. However, the student forgot which…",
+    "options": [
+      "The distance between the plates",
+      "The area",
+      "The length of a side",
+      "Both the area and the length of a side"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1622873",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1622873-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1679446",
+    "unit": 10,
+    "units": [
+      10
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 37,
+    "topic": "Energy Stored in Capacitors",
+    "prompt": "Consider a parallel plate capacitor, with no dielectric material, attached to a battery with a fixed voltage. What happens when a dielectric is inserted into the capacitor?",
+    "options": [
+      "Nothing changes, except now there is a dielectric in the capacitor.",
+      "The energy in the system decreases, making it very easy to move the dielectric in.",
+      "You have to do work to move the dielectric, increasing the energy in the system.",
+      "The reversed polarity destroys the battery."
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1679446",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1679446-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1381555",
+    "unit": 10,
+    "units": [
+      10
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 39,
+    "topic": "Energy Stored in Capacitors",
+    "prompt": "What happens to the energy stored in a circuit as you increase the number of capacitors connected in parallel? Series?",
+    "options": [
+      "increases, increases",
+      "increases, decreases",
+      "decreases, increases",
+      "decreases, decreases"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1381555",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1381555-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2646945",
+    "unit": 10,
+    "units": [
+      10
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 41,
+    "topic": "Energy Stored in Capacitors",
+    "prompt": "Consider a parallel plate capacitor with metal plates, each of square shape of 1.00 m on a side, separated by 1.00 mm. What is the energy of this capacitor with 3.00×10 3 V applied to it?",
+    "options": [
+      "3.98×10 -2 J",
+      "5.08×10 14 J",
+      "1.33×10 -5 J",
+      "1.69×10 11 J"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id2646945",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id2646945-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1368915",
+    "unit": 10,
+    "units": [
+      10
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 19,
+    "number": 43,
+    "topic": "Energy Stored in Capacitors",
+    "prompt": "Consider a parallel plate capacitor with metal plates, each of square shape of 1.00 m on a side, separated by 1.00 mm. If the plates grow in area while the voltage is held fixed, the…",
+    "options": [
+      "decreases, decreases",
+      "decreases, increases",
+      "increases, decreases",
+      "increases, increases"
+    ],
+    "answer": 3,
+    "publishedKey": "D",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/19-test-prep-for-ap-r-courses#fs-id1368915",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-19#fs-id1368915-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2221393",
+    "unit": 11,
+    "units": [
+      11
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 20,
+    "number": 1,
+    "topic": "Current",
+    "prompt": "Which of the following can be explained on the basis of conservation of charge in a closed circuit consisting of a battery, resistor, and metal wires?",
+    "options": [
+      "The number of electrons leaving the battery will be equal to the number of electrons entering the battery.",
+      "The number of electrons leaving the battery will be less than the number of electrons entering the battery.",
+      "The number of protons leaving the battery will be equal to the number of protons entering the battery.",
+      "The number of protons leaving the battery will be less than the number of protons entering the battery."
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/20-test-prep-for-ap-r-courses#fs-id2221393",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-20#fs-id2221393-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2556054",
+    "unit": 11,
+    "units": [
+      11
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 20,
+    "number": 5,
+    "topic": "Ohm’s Law: Resistance and Simple Circuits",
+    "prompt": "If the voltage across a fixed resistance is doubled, what happens to the current?",
+    "options": [
+      "It doubles.",
+      "It halves.",
+      "It stays the same.",
+      "The current cannot be determined."
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/20-test-prep-for-ap-r-courses#fs-id2556054",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-20#fs-id2556054-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2861834",
+    "unit": 12,
+    "units": [
+      12
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 22,
+    "number": 1,
+    "topic": "Ferromagnets and Electromagnets",
+    "prompt": "A bar magnet is oriented so that the north pole of the bar magnet points north. A compass needle is placed to the north of the bar magnet. In which direction does the north pole of the…",
+    "options": [
+      "North",
+      "East",
+      "South",
+      "West"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/22-test-prep-for-ap-r-courses#fs-id2861834",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-22#fs-id2861834-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2440351",
+    "unit": 12,
+    "units": [
+      12
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 22,
+    "number": 3,
+    "topic": "Ferromagnets and Electromagnets",
+    "prompt": "Describe how the magnetic domains in an unmagnetized iron rod will respond to the presence of a strong external magnetic field.",
+    "options": [
+      "The domains will split into monopoles.",
+      "The domains will tend to align with the external field.",
+      "The domains will tend to orient themselves perpendicular to the external field.",
+      "The domains will tend to align so as to cancel out the external field."
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/22-test-prep-for-ap-r-courses#fs-id2440351",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-22#fs-id2440351-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1822638",
+    "unit": 12,
+    "units": [
+      12
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 22,
+    "number": 7,
+    "topic": "Magnetic Field Strength: Force on a Moving Charge in a Magnetic Field",
+    "prompt": "A proton moves in the – x -direction and encounters a uniform magnetic field pointing in the + x -direction. In what direction is the resulting magnetic force on the proton?",
+    "options": [
+      "The proton experiences no magnetic force.",
+      "+ x -direction",
+      "− y -direction",
+      "+ y -direction"
+    ],
+    "answer": 0,
+    "publishedKey": "A",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/22-test-prep-for-ap-r-courses#fs-id1822638",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-22#fs-id1822638-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id3182557",
+    "unit": 12,
+    "units": [
+      12
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 22,
+    "number": 9,
+    "topic": "Force on a Moving Charge in a Magnetic Field: Examples and Applications",
+    "prompt": "A wire oriented north-south carries current south. The wire is immersed in the Earth’s magnetic field, which is also oriented north-south (with a horizontal component pointing north).…",
+    "options": [
+      "West",
+      "East",
+      "Up",
+      "North"
+    ],
+    "answer": 1,
+    "publishedKey": "B",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/22-test-prep-for-ap-r-courses#fs-id3182557",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-22#fs-id3182557-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1555420",
+    "unit": 12,
+    "units": [
+      12
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 22,
+    "number": 11,
+    "topic": "Magnetic Fields Produced by Currents: Ampere’s Law",
+    "prompt": "An experimentalist fires a beam of electrons, creating a visible path in the air that can be measured. The beam is fired along a direction parallel to a current-carrying wire, and the…",
+    "options": [
+      "the radius of the circular path",
+      "the average distance between the electrons and the wire",
+      "the velocity of the electrons",
+      "two of the above",
+      "all of the above"
+    ],
+    "answer": 4,
+    "publishedKey": "E",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/22-test-prep-for-ap-r-courses#fs-id1555420",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-22#fs-id1555420-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id2346142",
+    "unit": 12,
+    "units": [
+      12
+    ],
+    "type": "MCQ",
+    "level": 1,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 22,
+    "number": 13,
+    "topic": "Magnetic Fields Produced by Currents: Ampere’s Law",
+    "prompt": "In terms of the direction of force, we use the left-hand rule. Pointing your thumb in the + x -direction with the velocity and fingers of the left hand into the page reveals that the…",
+    "options": [
+      "away from the wire",
+      "vertically upward",
+      "into the page",
+      "out of the page"
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/22-test-prep-for-ap-r-courses#fs-id2346142",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-22#fs-id2346142-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1555084",
+    "unit": 12,
+    "units": [
+      12
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 22,
+    "number": 15,
+    "topic": "Magnetic Force between Two Parallel Conductors",
+    "prompt": "Two parallel wires carry equal currents in the same direction and are separated by a small distance. What is the direction of the magnetic force exerted by the two wires on each other?",
+    "options": [
+      "No force since the wires are parallel.",
+      "No force since the currents are in the same direction.",
+      "The force is attractive.",
+      "The force is repulsive."
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/22-test-prep-for-ap-r-courses#fs-id1555084",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-22#fs-id1555084-solution"
+  },
+  {
+    "id": "os-ap2e-m-fs-id1518306",
+    "unit": 13,
+    "units": [
+      13
+    ],
+    "type": "MCQ",
+    "level": 0,
+    "imported": true,
+    "source": "OpenStax",
+    "bookLabel": "AP-prep 2e",
+    "basis": "Algebra-based foundation",
+    "chapter": 23,
+    "number": 3,
+    "topic": "Electric Generators",
+    "prompt": "The emf induced in a coil that is rotating in a magnetic field will be at a maximum when",
+    "options": [
+      "the magnetic flux is at a maximum.",
+      "the magnetic flux is at a minimum.",
+      "the change in magnetic flux is at a maximum.",
+      "the change in magnetic flux is at a minimum."
+    ],
+    "answer": 2,
+    "publishedKey": "C",
+    "url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/23-test-prep-for-ap-r-courses#fs-id1518306",
+    "solutionUrl": "https://openstax.org/books/college-physics-ap-courses-2e/pages/chapter-23#fs-id1518306-solution"
+  }
+]
