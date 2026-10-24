@@ -1,3 +1,4 @@
+// Public released College Board PDF references.
 const official = [
   {
     "id": "cb12-mech-m-1",
@@ -1753,6 +1754,366 @@ const official = [
     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-frq-physics-c-em-set-2.pdf",
     "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-physics-c-em-set-2.pdf",
     "label": "2024 · Set 2 · FRQ 3"
+  },
+  {
+    "id": "cb26-mech-frq-1",
+    "unit": 2,
+    "units": [
+      2
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2026,
+    "number": 1,
+    "page": 3,
+    "prompt": "Box sliding against a wall",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap26-frq-physics-c-mech.pdf#page=3",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-mech.pdf#page=3",
+    "label": "2026 · FRQ 1"
+  },
+  {
+    "id": "cb26-mech-frq-2",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2026,
+    "number": 2,
+    "page": 5,
+    "prompt": "Exploding projectile and momentum",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap26-frq-physics-c-mech.pdf#page=5",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-mech.pdf#page=5",
+    "label": "2026 · FRQ 2"
+  },
+  {
+    "id": "cb26-mech-frq-3",
+    "unit": 3,
+    "units": [
+      3
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2026,
+    "number": 3,
+    "page": 8,
+    "prompt": "Spring energy and experimental design",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap26-frq-physics-c-mech.pdf#page=8",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-mech.pdf#page=8",
+    "label": "2026 · FRQ 3"
+  },
+  {
+    "id": "cb26-mech-frq-4",
+    "unit": 5,
+    "units": [
+      5
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2026,
+    "number": 4,
+    "page": 10,
+    "prompt": "Rotating unicycle wheel",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap26-frq-physics-c-mech.pdf#page=10",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-mech.pdf#page=10",
+    "label": "2026 · FRQ 4"
+  },
+  {
+    "id": "cb26-em-frq-1",
+    "unit": 12,
+    "units": [
+      12
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2026,
+    "number": 1,
+    "page": 3,
+    "prompt": "Magnetic field from current-carrying wires",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap26-frq-physics-c-em.pdf#page=3",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-em.pdf#page=3",
+    "label": "2026 · FRQ 1"
+  },
+  {
+    "id": "cb26-em-frq-2",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2026,
+    "number": 2,
+    "page": 5,
+    "prompt": "Electric field from charged rods",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap26-frq-physics-c-em.pdf#page=5",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-em.pdf#page=5",
+    "label": "2026 · FRQ 2"
+  },
+  {
+    "id": "cb26-em-frq-3",
+    "unit": 13,
+    "units": [
+      13
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2026,
+    "number": 3,
+    "page": 8,
+    "prompt": "Measuring inductance",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap26-frq-physics-c-em.pdf#page=8",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-em.pdf#page=8",
+    "label": "2026 · FRQ 3"
+  },
+  {
+    "id": "cb26-em-frq-4",
+    "unit": 13,
+    "units": [
+      13
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2026,
+    "number": 4,
+    "page": 10,
+    "prompt": "Induced current in a changing magnetic field",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap26-frq-physics-c-em.pdf#page=10",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-em.pdf#page=10",
+    "label": "2026 · FRQ 4"
+  },
+  {
+    "id": "cb23-mech-s1-frq-1",
+    "unit": 3,
+    "units": [
+      3
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2023,
+    "number": 1,
+    "page": 5,
+    "prompt": "Spring force and energy",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap23-frq-physics-c-mechanics-set-1.pdf#page=5",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-mech-set-1.pdf",
+    "label": "2023 · Set 1 · FRQ 1"
+  },
+  {
+    "id": "cb23-mech-s1-frq-2",
+    "unit": 7,
+    "units": [
+      7
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2023,
+    "number": 2,
+    "page": 10,
+    "prompt": "Torsional pendulum",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap23-frq-physics-c-mechanics-set-1.pdf#page=10",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-mech-set-1.pdf",
+    "label": "2023 · Set 1 · FRQ 2"
+  },
+  {
+    "id": "cb23-mech-s1-frq-3",
+    "unit": 6,
+    "units": [
+      6
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2023,
+    "number": 3,
+    "page": 14,
+    "prompt": "Rolling sphere after collision",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap23-frq-physics-c-mechanics-set-1.pdf#page=14",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-mech-set-1.pdf",
+    "label": "2023 · Set 1 · FRQ 3"
+  },
+  {
+    "id": "cb23-mech-s2-frq-1",
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2023,
+    "number": 1,
+    "page": 5,
+    "prompt": "Foam collision and momentum",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap23-frq-physics-c-mechanics-set-2.pdf#page=5",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-mech-set-2.pdf",
+    "label": "2023 · Set 2 · FRQ 1"
+  },
+  {
+    "id": "cb23-mech-s2-frq-2",
+    "unit": 7,
+    "units": [
+      7
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2023,
+    "number": 2,
+    "page": 9,
+    "prompt": "Spring oscillations",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap23-frq-physics-c-mechanics-set-2.pdf#page=9",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-mech-set-2.pdf",
+    "label": "2023 · Set 2 · FRQ 2"
+  },
+  {
+    "id": "cb23-mech-s2-frq-3",
+    "unit": 5,
+    "units": [
+      5
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2023,
+    "number": 3,
+    "page": 13,
+    "prompt": "Wind turbine rotation",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap23-frq-physics-c-mechanics-set-2.pdf#page=13",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-mech-set-2.pdf",
+    "label": "2023 · Set 2 · FRQ 3"
+  },
+  {
+    "id": "cb23-em-s1-frq-1",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2023,
+    "number": 1,
+    "page": 5,
+    "prompt": "Charged spheres in electric fields",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap23-frq-physics-c-em-set-1.pdf#page=5",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-em-set-1.pdf",
+    "label": "2023 · Set 1 · FRQ 1"
+  },
+  {
+    "id": "cb23-em-s1-frq-2",
+    "unit": 13,
+    "units": [
+      13
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2023,
+    "number": 2,
+    "page": 9,
+    "prompt": "Magnetic force on a conducting bar",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap23-frq-physics-c-em-set-1.pdf#page=9",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-em-set-1.pdf",
+    "label": "2023 · Set 1 · FRQ 2"
+  },
+  {
+    "id": "cb23-em-s1-frq-3",
+    "unit": 11,
+    "units": [
+      11
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2023,
+    "number": 3,
+    "page": 12,
+    "prompt": "Capacitor and resistor circuit",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap23-frq-physics-c-em-set-1.pdf#page=12",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-em-set-1.pdf",
+    "label": "2023 · Set 1 · FRQ 3"
+  },
+  {
+    "id": "cb23-em-s2-frq-1",
+    "unit": 8,
+    "units": [
+      8
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2023,
+    "number": 1,
+    "page": 5,
+    "prompt": "Electrostatic force and spring compression",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap23-frq-physics-c-em-set-2.pdf#page=5",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-em-set-2.pdf",
+    "label": "2023 · Set 2 · FRQ 1"
+  },
+  {
+    "id": "cb23-em-s2-frq-2",
+    "unit": 13,
+    "units": [
+      13
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2023,
+    "number": 2,
+    "page": 9,
+    "prompt": "Induction in a conducting bar",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap23-frq-physics-c-em-set-2.pdf#page=9",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-em-set-2.pdf",
+    "label": "2023 · Set 2 · FRQ 2"
+  },
+  {
+    "id": "cb23-em-s2-frq-3",
+    "unit": 11,
+    "units": [
+      11
+    ],
+    "type": "FRQ",
+    "level": 2,
+    "external": true,
+    "source": "College Board",
+    "year": 2023,
+    "number": 3,
+    "page": 12,
+    "prompt": "Capacitor circuit and stored energy",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap23-frq-physics-c-em-set-2.pdf#page=12",
+    "solutionUrl": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-em-set-2.pdf",
+    "label": "2023 · Set 2 · FRQ 3"
   }
 ];
 bank.push(...official);

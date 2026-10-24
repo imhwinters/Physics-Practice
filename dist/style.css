@@ -35,3 +35,15 @@
 .source-preview{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
 .source-preview p{margin:0}
 .source-preview math{font-size:1.1em}
+
+/* Multi-unit questions can be filtered with more than one selected unit. */
+.unit-picker{position:relative}
+.unit-picker>summary{display:block;list-style:none;border:1px solid var(--line);border-radius:4px;padding:9px 28px 9px 11px;background:var(--panel);font-size:12px;color:var(--ink);min-width:112px;white-space:nowrap}
+.unit-picker>summary::-webkit-details-marker{display:none}
+.unit-picker>summary:after{display:none}
+.unit-menu{position:absolute;z-index:10;top:calc(100% + 5px);left:0;min-width:235px;max-height:65vh;overflow:auto;padding:7px;background:var(--panel);border:1px solid var(--line);border-radius:4px;box-shadow:0 8px 22px #2028201a}
+.unit-menu label{display:flex;align-items:center;gap:8px;padding:7px 8px;color:var(--ink);font-size:12px;white-space:nowrap;cursor:pointer}
+.unit-menu label:hover{background:#f1f3ea}
+.unit-menu input{margin:0}
+.multi-unit-tag{display:inline-block;padding:1px 6px;border:1px solid #d8dacf;border-radius:3px;background:#f0f1e9;color:#596150;font-size:9px;letter-spacing:.2px;white-space:nowrap}
+.question-meta .multi-unit-tag{font-size:9px}

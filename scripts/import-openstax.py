@@ -116,10 +116,10 @@ if __name__=='__main__':
     if buckets[d]:ordered.append(buckets[d].pop(0))
   byunit[n]=ordered
  chosen=[]
- while len(chosen)<1248:
+ while any(byunit.values()):
   added=False
   for n in range(1,14):
-   if byunit[n] and len(chosen)<1248:chosen.append(byunit[n].pop(0));added=True
+   if byunit[n]:chosen.append(byunit[n].pop(0));added=True
   if not added:raise RuntimeError(f'Only {len(chosen)} distinct eligible exercises found')
  # Import available publisher answers, never inventing missing ones.
  answer_soups={}
@@ -135,7 +135,7 @@ if __name__=='__main__':
     q['solutionHTML']=clean_html(container,q['solutionUrl'])
   q.pop('_tokens');q.pop('_norm')
   q['attributionHTML']=f'OpenStax, <em>University Physics Volume {q["volume"]}</em>, Chapter {q["chapter"]}, Problem {q["number"]}. Authors: William Moebs, Samuel J. Ling, and Jeff Sanny. <a href="{q["url"]}" target="_blank" rel="noopener">Access for free at OpenStax</a>. Content © Rice University, licensed <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>. Formatting adapted for this noncommercial local study app.'
- assert len({q['id'] for q in chosen})==1248
+ assert len({q['id'] for q in chosen})==len(chosen)
  (ROOT/'dist/textbook.js').write_text('// Distinct OpenStax source exercises. Source URLs and CC BY-NC-SA attribution are retained per entry.\nconst textbookQuestions='+json.dumps(chosen,ensure_ascii=False,indent=2)+';\nbank.push(...textbookQuestions);\n')
  (CACHE/'selected-index.json').write_text(json.dumps([{k:v for k,v in q.items() if k not in ['statementHTML','solutionHTML','attributionHTML']} for q in chosen],ensure_ascii=False,indent=2))
  from collections import Counter

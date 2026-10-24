@@ -1,7 +1,7 @@
-# Official source reference copies
+# Question source index
 
-14 PDFs downloaded directly from College Board for local reference. These PDFs and extracted text are not part of the published site or its Git repository. The site links to the publisher’s originals.
+The site includes source-linked questions from College Board, OpenStax, and MIT OpenCourseWare. `catalog.json` and `question-index.csv` contain the College Board references used by the site, with question pages and answer/scoring links. MIT 8.01SC source-linked FRQs are cataloged in `mit-801/questions.json`.
 
-The catalog contains 70 MCQs and 26 FRQs from the 2012 public practice exams and the 2024 (sets 1 and 2) and 2025 releases. Each question is indexed once; FRQs have multiple unit tags where appropriate. Difficulty is an editorial estimate, not an official rating. Older exams differ in format from the current exam.
+The College Board catalog currently covers 70 MCQs from its public 2012 practice exams and 46 FRQs from the public 2012, 2023, 2024, 2025, and 2026 releases. The newer releases link directly to College Board PDFs; locally cached reference copies are available for selected older exams. Difficulty labels are study estimates, not official ratings. Older exams use a different format from the current exam.
 
-Sources and page references are recorded in catalog.json. Original copyright notices remain in every PDF.
+OpenStax textbook and AP-prep questions retain individual source URLs and license attribution in the question data. MIT 8.02 concept questions link to their OCW resources; 62 MIT 8.01SC mechanics problems link to individual problem-set PDF pages. MIT entries retain Creative Commons attribution. The application displays source attribution with each question.

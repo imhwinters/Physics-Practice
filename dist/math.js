@@ -15,7 +15,7 @@ function mathHTML(value,large=false){
  return result+esc(text.slice(last));
 }
 function content(q,key,index){
- const field=(typeof mathBank!=='undefined'&&mathBank[q.id]?.[key])??q[key];
+ const field=q[key];
  return mathHTML(index===undefined?field:field[index],['options','solutions','explanation'].includes(key));
 }
 function notesPreview(value){
